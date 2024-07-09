@@ -1,5 +1,5 @@
-# Opportunities
-List of CS underclassmen internships, part-time internships, exploratory programs, scholarships, interview prep, and mentorship programs. It is possible that some of those opportunities are not available anymore, or the deadlines are completely wrong. 
+# CS/Tech Resource Hub by RemonBiz
+This repo was created to centralize all opportunities related to CS/Tech across a broad academic range of resources.
 **Double check the deadlines!**
 
 For Summer SWE internships go to [Summer 2024 CS Internships](https://github.com/pittcsc/Summer2024-Internships). 
@@ -20,11 +20,22 @@ Want more opportunities and deadlines? Check [Carleton's Career Center Calendar]
  * [Finance+ exploratory programs](#finance-and-consulting-exploratory-programs)
  * [Bonus: Resume + Tips](#bonus-resume-and-tips)
 
-
-## [getting-tech-internship](https://docs.google.com/document/d/1-1TU9Ah2JsMuwQjGMCJO_g50m5IWbFf4BECdYsgn09Q/edit?usp=sharing) guide
-
-[This document](https://docs.google.com/document/d/1-1TU9Ah2JsMuwQjGMCJO_g50m5IWbFf4BECdYsgn09Q/edit?usp=sharing) is written and reviewed by Carleton College students (class of 2022 and 2023) as a guide for other Carleton students on finding tech internships (or new grad positions). Our contacts are listed at the end of the document. 
-
+<div align="center">
+	<p>
+		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
+			<b>Applying to internships?</b>
+			<br>
+			Autofill all your applications in a single click.
+			<br>
+			<div>
+				<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
+          <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
+        </a>
+			</div>
+		</a>
+		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
+	</p>
+</div>
 
 ## CS underclassmen internships
 

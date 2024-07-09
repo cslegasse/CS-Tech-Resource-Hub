@@ -4,8 +4,14 @@ The list is maintained by [RemonBiz](https://instagram.com/remonbiz)!
 
 ⚠️: Please note that this repository contains a mix of resources applicable to students in America's and Internationally. ⚠️
 
+## Thank you to contributors ❤️❤️
+* [LuisaE](https://github.com/LuisaE/opportunities)
+* [Julian048](https://github.com/Julian048/CS-Everything-but-Internships)
+* [Ouckah](https://github.com/Ouckah/Summer2025-Internships)
+* [Simplify/PittCSC](https://github.com/SimplifyJobs/Summer2025-Internships)
+
 ## Table of contents
- * [CS Underclassmen Internships](#cs-underclassmen-internships)
+ * [CS Underclassmen Internships](#CS-Underclassmen-Internships)
  * [CS Fellowships](#Fellowships)
  * [Part-time internships](#part-time-internships)
  * [Senior Fulltime Pipelines](#Senior-Fulltime-Pipelines)
@@ -19,7 +25,7 @@ The list is maintained by [RemonBiz](https://instagram.com/remonbiz)!
  * [CS REU](#cs-research-experience-undergraduates-reu)
  * [Finance+ exploratory programs](#finance-and-consulting-exploratory-programs)
 
----
+
 <div align="center">
 	<p>
 		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
@@ -36,14 +42,14 @@ The list is maintained by [RemonBiz](https://instagram.com/remonbiz)!
 		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
 	</p>
 </div>
----
 
 # 2024 CS Internship Application Season
-| Resource Link |
-| --- |
-| [Pitt CSC 2025 Summer Internships](https://github.com/SimplifyJobs/Summer2025-Internships) |
+These are links to websites, github repos, or other sources to help you apply for internships specific to this cycle.
+| Resource Link | Resource Link | Resource Link |
+| --- | --- | --- |
+| [Pitt CSC 2025 Summer Internships](https://github.com/SimplifyJobs/Summer2025-Internships) | [OuckahCS 2025 Summer Internships](https://github.com/Ouckah/Summer2025-Internships) | [SWE List 2025](https://swelist.com/)]
 
-## CS underclassmen internships
+## CS Underclassmen Internships
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |

@@ -1,25 +1,25 @@
 # CS/Tech Resource Hub by RemonBiz
 This repo was created to centralize all opportunities related to CS/Tech across a broad academic range of resources.
-**Double check the deadlines!**
+The list is maintained by [RemonBiz](https://instagram.com/remonbiz)!
 
-For Summer SWE internships go to [Summer 2024 CS Internships](https://github.com/pittcsc/Summer2024-Internships). 
+⚠️: Please note that this repository contains a mix of resources applicable to students in America's and Internationally. ⚠️
 
-Want more opportunities and deadlines? Check [Carleton's Career Center Calendar](https://apps.carleton.edu/career/about/events/)
-
- * [CS underclassmen internships](#cs-underclassmen-internships)
- * [CS internship alternative](#cs-internship-alternative)
+## Table of contents
+ * [CS Underclassmen Internships](#cs-underclassmen-internships)
+ * [CS Fellowships](#Fellowships)
  * [Part-time internships](#part-time-internships)
- * [For rising seniors and seniors](#for-rising-seniors-and-seniors)
+ * [Senior Fulltime Pipelines](#Senior-Fulltime-Pipelines)
  * [CS exploratory programs](#cs-exploratory-programs)
  * [CS conferences and scholarships](#cs-conferences-and-scholarships)
  * [Coding interview resources](#coding-interview-resources)
  * [CS Mentorship](#cs-mentorship)
  * [CS Scholarships](#cs-scholarships)
+ * [Study Abroad Scholarships](#study-abroad-scholarships)
  * [CS Research](#cs-research)
  * [CS REU](#cs-research-experience-undergraduates-reu)
  * [Finance+ exploratory programs](#finance-and-consulting-exploratory-programs)
- * [Bonus: Resume + Tips](#bonus-resume-and-tips)
 
+---
 <div align="center">
 	<p>
 		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
@@ -36,10 +36,14 @@ Want more opportunities and deadlines? Check [Carleton's Career Center Calendar]
 		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
 	</p>
 </div>
+---
+
+# 2024 CS Internship Application Season
+| Resource Link |
+| --- |
+| [Pitt CSC 2025 Summer Internships](https://github.com/SimplifyJobs/Summer2025-Internships) |
 
 ## CS underclassmen internships
-
-Not a freshman or sophomore? Check this: [Summer 2024 CS Internships](https://github.com/pittcsc/Summer2024-Internships)
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
@@ -62,7 +66,7 @@ Not a freshman or sophomore? Check this: [Summer 2024 CS Internships](https://gi
 | [Oracle First Year SWE internships](https://www.oracle.com/careers/students-grads/internships/) | Completed first year of undergraduate degree in computer science, computer engineering, electrical engineering, or related area of study | Fall |
 | [Zillow Engineering and Leadership Program - ZEAL](https://www.zillow.com/careers/internships/) | Sophomores | Fall |
 
-## CS internship alternative 
+## Fellowships
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
@@ -92,7 +96,7 @@ You can intern while doing school full time. All are paid internships and you ca
 | [IBM](https://www.ibm.com/careers/us-en/early-career/internship/) | Being an intern at IBM is no small feat. From day one, you'll be involved in awesome projects, all while making big contributions. Are you ready? | ? |
 | [Wall Street Journal](https://wsj.jobs) | The Wall Street Journal is the most trusted news organization in America and the best source of news and analysis for ambitious people. | ? |
 
-## For rising seniors and seniors
+## Senior Fulltime Pipelines
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
@@ -103,7 +107,7 @@ You can intern while doing school full time. All are paid internships and you ca
 | [Jane Street Internships](https://www.janestreet.com/join-jane-street/programs-and-events/internships-all-cycles/) | They have some internships for graduating seniors, and you can join full time right after | Fall - Winter |
 | [Spotify](https://www.lifeatspotify.com/students?l=remote-americas&l=new-york&j=internship&j=early-career-program) | They accept graduating seniors for most of their internships | March | 
 
-## CS fellowships
+## CS Internship Matching Programs
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
@@ -259,6 +263,15 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [Blackstone Future Women Innovators Program](https://www.blackstone.com/careers/diversity-inclusion) | Blackstone’s Future Women Innovators Program is a unique 1.5 day program for software developers, giving participants early exposure to technology and business through interactive information seminars, networking, and skill-building sessions. Program participants will have the opportunity to interact with technologists and recruiting professionals at Blackstone in New York. The Blackstone Future Women Innovators Program introduces the knowledge, training, and skills necessary for a well-guided career path in technology. | January |
 | [The Advancing Black Pathways Fellowship Program](https://www.jpmorganchase.com/impact/people/advancing-black-pathways/fellowship-program) | The Advancing Black Pathways (ABP) Fellowship Program offers a six-week paid; full-time summer fellowship held in select JPMorgan Chase offices. The ABP Fellowship Program is designed to attract undergraduate sophomores who are interested in early exposure to financial services careers and committed to the advancement of individuals from underrepresented groups in this industry. | March |
 
+## Study Abroad Scholarships
+
+# Networking and Connections Apps
+* [LinkedIn](https://www.linkedin.com/)
+* [Handshake](https://app.joinhandshake.com/stu)
+* [CS Opportunities Twitter](https://twitter.com/cs_opp?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* [r/csMajors](https://www.reddit.com/r/csMajors/)
+* [Blind](https://www.teamblind.com)
+
 ## Bonus: Resume and Tips
 
 1. Create a Linkedin and a GitHub and add some projects. 
@@ -269,7 +282,5 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 6. Ask for referrals if you know someone that works for the company that you are applying - more likely to get an interview. There is a list with Alumni willing to refer Carleton students.  
 7. Mock interviews with friends or online using a tool like Pramp is a great way to get a real life technical interview experience. 
 8. Want to know what's an SWE intern's salary at big tech companies? Check [Levels.fyi](https://www.levels.fyi/internships/?track=Software%20Engineer)
-9. Do personal projects to learn new things. You can also add some class projects to your resume. Some classes with substantial programming projects: Comps (CS 399 & 400), Operating Systems (CS 332), Database Systems (CS 334), Prog Lang (CS 251 Scheme interpreter), Computer Graphics (CS 311), AI (CS 321, final project), Artificial Life (CS 361). I have also seen people using stuff from Software Design (CS 257) or Data Science (STAT 220) (however, those projects are considered pretty basic).  
-10. You can find more stuff in [LinkedIn](https://www.linkedin.com/), [Handshake](https://app.joinhandshake.com/stu), [CS Opportunities Twitter account](https://twitter.com/cs_opp?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), [r/csMajors](https://www.reddit.com/r/csMajors/), [Blind](https://www.teamblind.com). 
-11. Don't be afraid of rejection; it's part of the process! If you don't apply, then you definitely are not getting in, but if you do, there's a nonzero chance. 
+ 
 12. Bad at Leetcode? Here's a list of companies that don't do "whiteboard" interviews [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)

@@ -4,12 +4,6 @@ The list is maintained by [RemonBiz](https://instagram.com/remonbiz)!
 
 ⚠️: Please note that this repository contains a mix of resources applicable to students in America's and Internationally. ⚠️
 
-## Thank you to contributors ❤️❤️
-* [LuisaE](https://github.com/LuisaE/opportunities)
-* [Julian048](https://github.com/Julian048/CS-Everything-but-Internships)
-* [Ouckah](https://github.com/Ouckah/Summer2025-Internships)
-* [Simplify/PittCSC](https://github.com/SimplifyJobs/Summer2025-Internships)
-
 ## Table of contents
  * [CS Underclassmen Internships](#CS-Underclassmen-Internships)
  * [CS Fellowships](#Fellowships)
@@ -47,7 +41,7 @@ The list is maintained by [RemonBiz](https://instagram.com/remonbiz)!
 These are links to websites, github repos, or other sources to help you apply for internships specific to this cycle.
 | Resource Link | Resource Link | Resource Link |
 | --- | --- | --- |
-| [Pitt CSC 2025 Summer Internships](https://github.com/SimplifyJobs/Summer2025-Internships) | [OuckahCS 2025 Summer Internships](https://github.com/Ouckah/Summer2025-Internships) | [SWE List 2025](https://swelist.com/)]
+| [Pitt CSC 2025 Summer Internships](https://github.com/SimplifyJobs/Summer2025-Internships) | [OuckahCS 2025 Summer Internships](https://github.com/Ouckah/Summer2025-Internships) | [SWE List 2025](https://swelist.com/)
 
 ## CS Underclassmen Internships
 
@@ -278,6 +272,14 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 * [r/csMajors](https://www.reddit.com/r/csMajors/)
 * [Blind](https://www.teamblind.com)
 
+#  Job Searching, Applying, and Market Tracking
+| Resource Link | Description |
+| --- | --- |
+| [Simplify](https://simplify.jobs/) | Auto fills job applications |
+| [JobPulse](https://jobpulse.fyi/) | Connects students to potential company matches |
+| [Levels.FYI](https://www.levels.fyi/) | Transparent job salary, offer negotiations, and community services for tech jobs |
+| [Layoffs.FYI](https://www.layoffs.fyi/) | Transparent job market data on layoffs based on location, company, and industry |
+
 ## Bonus: Resume and Tips
 
 1. Create a Linkedin and a GitHub and add some projects. 
@@ -288,5 +290,11 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 6. Ask for referrals if you know someone that works for the company that you are applying - more likely to get an interview. There is a list with Alumni willing to refer Carleton students.  
 7. Mock interviews with friends or online using a tool like Pramp is a great way to get a real life technical interview experience. 
 8. Want to know what's an SWE intern's salary at big tech companies? Check [Levels.fyi](https://www.levels.fyi/internships/?track=Software%20Engineer)
+
+## Thank you to contributors ❤️❤️
+* [LuisaE](https://github.com/LuisaE/opportunities)
+* [Julian048](https://github.com/Julian048/CS-Everything-but-Internships)
+* [Ouckah](https://github.com/Ouckah/Summer2025-Internships)
+* [Simplify/PittCSC](https://github.com/SimplifyJobs/Summer2025-Internships)
  
 12. Bad at Leetcode? Here's a list of companies that don't do "whiteboard" interviews [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)

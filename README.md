@@ -106,7 +106,6 @@ These are links to websites, github repos, or other sources to help you apply fo
 | [Zillow Engineering and Leadership Program - ZEAL](https://www.zillow.com/careers/internships/) | Sophomores | Fall |
 
 ## Fellowships
-
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [MLH Fellowship](https://fellowship.mlh.io) | The MLH Fellowship is a 12-week internship alternative for aspiring software engineers. Our programs pair fun, educational curriculum with practical experience that you can put on your resume right away. It's collaborative, remote, and happens under the guidance of expert mentors. Explorer, Open Source and Externship. Stipend available. Application review, 10 minute behavioral interview and 15 minute technical interview. | Winter, Spring, Fall | 
@@ -116,7 +115,7 @@ These are links to websites, github repos, or other sources to help you apply fo
 | [Break Through Tech AI Immersion Program](https://ecornell.cornell.edu/portal/break-through-tech-ai-information/) | The Break Through Tech AI Program helps college women (trans and cis), nonbinary, and other underrepresented groups in tech gain the skills they need to get jobs in the fastest-growing areas of tech: data science, machine learning, and artificial intelligence. | March |
 | [IBM Accelerate Early Talent Identification Program](https://www.ibm.com/careers/us-en/early-career/entry-level/) | IBM Accelerate offers undergraduate students a virtual learning experience with live, weekly learning sessions over eight weeks during the summer. Earn an industry-recognized badge while building your skills with our IBMers. Second and third-year undergraduate students attending a U.S. post-secondary institution. | ? |
 | [Futureforce Tech Launchpad](https://info.codepath.org/futureforce-tech-launchpad-salesforce-and-codepath) | Futureforce Tech Launchpad, powered by CodePath. This paid 10-week summer pre-internship program for rising juniors, will take place at the Salesforce Tower in San Francisco. This hands-on immersive experience combines a technical curriculum and 1-1 mentorship to make students job-ready. As part of the curriculum, students will learn full stack web development, engineering soft skills, and be assigned capstone projects centering around web development and design fundamentals. | April | 
-
+| [Hispanic Scholarship Fund](https://www.hsf.net/) | Provides scholarships, networking connections, conferences, and college prep resources for students and designatied scholars | November |
 
 ## Part-time internships
 You can intern while doing school full time. All are paid internships and you can use part-time CPT if international student.
@@ -134,7 +133,6 @@ You can intern while doing school full time. All are paid internships and you ca
 | [Wall Street Journal](https://wsj.jobs) | The Wall Street Journal is the most trusted news organization in America and the best source of news and analysis for ambitious people. | ? |
 
 ## Senior Fulltime Pipelines
-
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [Snap Up Apprentice](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2023-Software-Engineer--Snap-Up-Apprentice_R0029712-1) | We’re looking for Apprentices to join an Engineering program at Snap Inc. called Snap Up. Snap Up is a full time 11 month engineering rotational program created by Snap to provide career development opportunities to new graduates with limited or no technical software engineering work experience. | February |

@@ -2,6 +2,7 @@
 This repo was created to centralize all opportunities related to CS/Tech across a broad academic range of resources.
 The list is maintained by [RemonBiz](https://instagram.com/remonbiz)! 💰⭐
 
+---
 <div align="center">
 	<p>
 		<a href="https://beacons.ai/legasse">
@@ -15,6 +16,7 @@ The list is maintained by [RemonBiz](https://instagram.com/remonbiz)! 💰⭐
 		<sub><i>Discover all my social media profiles, content, and resources in one place.</i></sub>
 	</p>
 </div>
+---
 
 🙏 **Contribute by sending me a message [here](https://instagram.com/remonbiz)** 🧠
 
@@ -39,6 +41,7 @@ The list is maintained by [RemonBiz](https://instagram.com/remonbiz)! 💰⭐
  * [Resumes and Projects](#Resumes-and-Projects)
  * [Misc Stuff](#Misc-Stuff)
 
+---
 <div align="center">
 	<p>
 		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
@@ -55,7 +58,8 @@ The list is maintained by [RemonBiz](https://instagram.com/remonbiz)! 💰⭐
 		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
 	</p>
 </div>
-
+---
+---
 <div align="center">
 	<h3>😮‍💨 Tired of checking every day for new internships? 😩</h3>
 	<p>
@@ -69,6 +73,7 @@ The list is maintained by [RemonBiz](https://instagram.com/remonbiz)! 💰⭐
 		<sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub>
 	</p>
 </div>
+---
 
 ## 2024 CS Internship Apps
 These are links to websites, github repos, or other sources to help you apply for internships specific to this cycle.
@@ -333,4 +338,3 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 * [Julian048](https://github.com/Julian048/CS-Everything-but-Internships)
 * [Ouckah](https://github.com/Ouckah/Summer2025-Internships)
 * [Simplify/PittCSC](https://github.com/SimplifyJobs/Summer2025-Internships)
- 

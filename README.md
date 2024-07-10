@@ -41,6 +41,7 @@ This repo was created to centralize all opportunities related to CS/Tech across 
  * [Misc Stuff](#Misc-Stuff)
 
 ---
+
 <div align="center">
 	<p>
 		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
@@ -57,8 +58,9 @@ This repo was created to centralize all opportunities related to CS/Tech across 
 		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
 	</p>
 </div>
+
 ---
----
+
 <div align="center">
 	<h3>😮‍💨 Tired of checking every day for new internships? 😩</h3>
 	<p>
@@ -72,6 +74,7 @@ This repo was created to centralize all opportunities related to CS/Tech across 
 		<sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub>
 	</p>
 </div>
+
 ---
 
 ## 2024 CS Internship Apps

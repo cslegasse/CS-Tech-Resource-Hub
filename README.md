@@ -1,8 +1,8 @@
 # CS/Tech Resource Hub by RemonBiz
 This repo was created to centralize all opportunities related to CS/Tech across a broad academic range of resources.
-The list is maintained by [RemonBiz](https://instagram.com/remonbiz)! 💰⭐
 
----
+**The list is maintained by [RemonBiz](https://instagram.com/remonbiz)!** 💰⭐
+
 <div align="center">
 	<p>
 		<a href="https://beacons.ai/legasse">
@@ -16,7 +16,6 @@ The list is maintained by [RemonBiz](https://instagram.com/remonbiz)! 💰⭐
 		<sub><i>Discover all my social media profiles, content, and resources in one place.</i></sub>
 	</p>
 </div>
----
 
 🙏 **Contribute by sending me a message [here](https://instagram.com/remonbiz)** 🧠
 

@@ -2,6 +2,21 @@
 This repo was created to centralize all opportunities related to CS/Tech across a broad academic range of resources.
 The list is maintained by [RemonBiz](https://instagram.com/remonbiz)! 💰⭐
 
+<div align="center">
+	<p>
+		<a href="https://beacons.ai/legasse">
+			<b>Follow me on Beacons.ai</b>
+			<div>
+				<a href="https://beacons.ai/legasse">
+          <img src="https://cdn.beacons.ai/user_content/AHnOl9MMnuMm1Z7JLxNaIU5g9qU2/profile_beacons.png?t=1636242247083" width="450" alt="Beacons.ai">
+        </a>
+			</div>
+		</a>
+		<sub><i>Discover all my social media profiles, content, and resources in one place.</i></sub>
+	</p>
+</div>
+
+🙏 **Contribute by sending me a message [here](https://instagram.com/remonbiz) ** 🧠
 ⚠️Please note that this repository contains a mix of resources applicable to students in America's and Internationally. ⚠️
 
 # Table of Contents 🤯✔️
@@ -41,19 +56,16 @@ The list is maintained by [RemonBiz](https://instagram.com/remonbiz)! 💰⭐
 </div>
 
 <div align="center">
+	<h3>😮‍💨 Tired of checking every day for new internships? 😩</h3>
 	<p>
-		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
-			<b>Applying to internships?</b>
-			<br>
-			Autofill all your applications in a single click.
+			A community member made ⬇️ <strong>SWE List</strong> ⬇️ that sends you email updates for this repo 
 			<br>
 			<div>
-				<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
-          <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
+			<a href="https://swelist.com">
+          <img src="https://i.imgur.com/n8ZX4tt.png" width="400" alt="Email">
         </a>
 			</div>
-		</a>
-		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
+		<sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub>
 	</p>
 </div>
 
@@ -132,7 +144,7 @@ You can intern while doing school full time. All are paid internships and you ca
 | [Neo Scholar](https://neo.com/scholars) | Get matched to start-ups, plus mentorship & resources for building your own |
 | [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | Match students to media tech companies for all seasons. Available for students in CS, Business, Journalism, etc. Open year round I believe |
 | [INROADS](https://inroads.org/apply/) | General matching program for internships |
-| ✨ [Civic Digital Fellowship](https://www.codingitforward.com/fellowship) | Connecting students in tech to government offices. Website says open in October |
+| [Civic Digital Fellowship](https://www.codingitforward.com/fellowship) | Connecting students in tech to government offices. Website says open in October |
 | [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups |
 | [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | Match students to various tech start-ups |
 | [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | Match students to various tech start-ups |
@@ -279,8 +291,11 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [The Advancing Black Pathways Fellowship Program](https://www.jpmorganchase.com/impact/people/advancing-black-pathways/fellowship-program) | The Advancing Black Pathways (ABP) Fellowship Program offers a six-week paid; full-time summer fellowship held in select JPMorgan Chase offices. The ABP Fellowship Program is designed to attract undergraduate sophomores who are interested in early exposure to financial services careers and committed to the advancement of individuals from underrepresented groups in this industry. | March |
 
 ## Study Abroad Scholarships
-| Resource Link | Description | Approximate Deadline |
+| Resource Link | Description/Requirment | Approximate Deadline |
 | --- | --- | --- |
+| [Tortuga Backpaacks Scholarship](https://www.tortugabackpacks.com/pages/study-abroad-scholarship) | The Tortuga Study Abroad Scholarship is awarded biannually to passionate students who want to explore the world. No specific requirements. | Spring - November, Fall - April |
+| [Benjamin A. Gilman Scholarship](https://www.gilmanscholarship.org/) | Must recieve federal pell grant | Fall - March, Spring - November |
+| [Fund for Education Abroad](https://fundforeducationabroad.org/) | Financial need and underrepresented group a requirement | Fall/Spring/AY - November |
 
 # Networking and Connections Apps
 | Resource Link |

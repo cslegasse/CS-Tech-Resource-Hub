@@ -1,24 +1,27 @@
 # CS/Tech Resource Hub by RemonBiz
 This repo was created to centralize all opportunities related to CS/Tech across a broad academic range of resources.
-The list is maintained by [RemonBiz](https://instagram.com/remonbiz)!
+The list is maintained by [RemonBiz](https://instagram.com/remonbiz)! 💰⭐
 
-⚠️: Please note that this repository contains a mix of resources applicable to students in America's and Internationally. ⚠️
+⚠️Please note that this repository contains a mix of resources applicable to students in America's and Internationally. ⚠️
 
-## Table of contents
+# Table of Contents 🤯✔️
+ * [2024 CS Internship Apps](#2024-CS-Internship-Apps)
  * [CS Underclassmen Internships](#CS-Underclassmen-Internships)
  * [CS Fellowships](#Fellowships)
  * [Part-time internships](#part-time-internships)
- * [Senior Fulltime Pipelines](#Senior-Fulltime-Pipelines)
- * [CS exploratory programs](#cs-exploratory-programs)
- * [CS conferences and scholarships](#cs-conferences-and-scholarships)
- * [Coding interview resources](#coding-interview-resources)
- * [CS Mentorship](#cs-mentorship)
- * [CS Scholarships](#cs-scholarships)
- * [Study Abroad Scholarships](#study-abroad-scholarships)
- * [CS Research](#cs-research)
- * [CS REU](#cs-research-experience-undergraduates-reu)
+ * [Senior Fulltime Job Pipelines](#Senior-Fulltime-Pipelines)
+ * [CS Internship Matching Programs](#CS-Internship-Matching-Programs)
+ * [CS Exploratory Programs](#CS-Exploratory-Programs)
+ * [CS Conferences and Scholarships](#CS-Conferences-and-Scholarships)
+ * [Coding Interviews](#Coding-Interviews)
+ * [CS Mentorship](#CS-Mentorship)
+ * [CS Research](#CS-Research)
  * [Finance+ exploratory programs](#finance-and-consulting-exploratory-programs)
-
+ * [Study Abroad Scholarships](#study-abroad-scholarships)
+ * [Networking and Connections Apps](#Networking-and-Connections-Apps)
+ * [Job Searching, Applying, and Market Tracking](#Job-Searching,-Applying,-and-Market-Tracking)
+ * [Resumes and Projects](#Resumes-and-Projects)
+ * [Misc Stuff](#Misc-Stuff)
 
 <div align="center">
 	<p>
@@ -37,14 +40,30 @@ The list is maintained by [RemonBiz](https://instagram.com/remonbiz)!
 	</p>
 </div>
 
-# 2024 CS Internship Application Season
+<div align="center">
+	<p>
+		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
+			<b>Applying to internships?</b>
+			<br>
+			Autofill all your applications in a single click.
+			<br>
+			<div>
+				<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
+          <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
+        </a>
+			</div>
+		</a>
+		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
+	</p>
+</div>
+
+## 2024 CS Internship Apps
 These are links to websites, github repos, or other sources to help you apply for internships specific to this cycle.
 | Resource Link | Resource Link | Resource Link |
 | --- | --- | --- |
 | [Pitt CSC 2025 Summer Internships](https://github.com/SimplifyJobs/Summer2025-Internships) | [OuckahCS 2025 Summer Internships](https://github.com/Ouckah/Summer2025-Internships) | [SWE List 2025](https://swelist.com/)
 
 ## CS Underclassmen Internships
-
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Explore Microsoft is a 12-week summer internship program specifically designed for first and second year college students. The program is rotational and allows you to gain experience in our different software engineering roles (SWE + PM). Phone interview + Onsite. | No fixed deadline, apply early. |
@@ -80,9 +99,7 @@ These are links to websites, github repos, or other sources to help you apply fo
 
 
 ## Part-time internships
-
 You can intern while doing school full time. All are paid internships and you can use part-time CPT if international student.
-
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [NBCUniversal](https://www.nbcunicareers.com/internships) | The NBCUniversal Internship Program allows students to unlock their potential by contributing to big projects in meaningful ways that matter. To thrive as an NBCU intern, you are someone who is ready to bring their passion for media, entertainment, and technology along with their desire to learn each day. Part time: Fall and Spring, 16 - 24 h/week. SWE and other engineering roles | 3 months before each season | 
@@ -108,91 +125,101 @@ You can intern while doing school full time. All are paid internships and you ca
 | [Spotify](https://www.lifeatspotify.com/students?l=remote-americas&l=new-york&j=internship&j=early-career-program) | They accept graduating seniors for most of their internships | March | 
 
 ## CS Internship Matching Programs
-
-| Name | Description | Approximate Deadline |
-| --- | --- | --- |
-| [Bessemer Fellowship Program](https://www.bvp.com/bessemer-fellows) | A Bessemer Fellow is a special appointment for high-performing students interested in engineering, product, or data science within the Bessemer portfolio. We accept students who have demonstrated excellence in their academic or professional pursuits and have a deep passion for entrepreneurship and innovation. | July |
-| [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com) | The KPCB fellowship program gives college students a chance to intern at one of its portfolio companies. Gain deep technical skills while being mentored by an executive. Unique curriculum which include founder speaker series, entrepreneurial workshops, and community building events | Jan |
-| [8VC Fellowships](https://www.8vc.com/fellowships) | The 8VC Fellowship is a unique, immersive, three-month internship program that places undergraduate students in contributing roles at some of the world's most innovative startups. | | 
-| [thrivecap Fellows](https://fellows.thrivecap.com) | In this inaugural class, the Thrive Summer Fellowship will provide a select group of rising college juniors with an 8-week paid internship, a stipend to offset education costs, and exclusive access to the Thrive team and portfolio organizations. | February |
-
-## CS exploratory programs
-All of the programs are all expenses paid. 
-
-| Name | Description | Approximate Deadline |
-| --- | --- | --- |
-| [Empower - Sophomore Associate Product Manager Summit](https://www.uberapms.com/empower-summit?fbclid=IwAR3EFXXjfqNGcqORLHUb1cNOlm9mZLqT7JMjV23xOnIoMwi5__mIJUjEg3Q) | This free, multi-day seminar for Sophomores is an introduction to Product Management and the tech industry. Empower is open to all majors, and provides students with skills to succeed as a Product Manager, mentors to guide their development and journey, and a community to connect them to a group of ambitious students. | July |
-| [Capital One Software Engineer Summit](https://campus.capitalone.com/summits/) | During this one-week program, a small, exceptional group of freshmen and sophomores will be immersed in our startup-minded and innovative culture while exploring and developing the technology and problem-solving skills valued by today’s top employers. If chosen for this highly selective program, you’ll take part in technical and soft-skill training sessions. | **Invitation only** (ask a recruiter) |
-| [HRT Women in Trading Technology Internship - Jan](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3534845) | An informative 4 week exploration into automated trading. The goal of this program is to give Freshmen and Sophomores who don’t currently have exposure into our industry and insight into who we are and what we do. | November |
-| [Google Latinx Student Leadership Summit](https://buildyourfuture.withgoogle.com/events/latinxstudentleadershipsummit) | The 2023 Latinx Student Leadership Summit (LSLS), sponsored by Google in partnership with the Hispanic Association of Colleges and Universities (HACU) and the Computing Alliance of Hispanic Serving Institutions (CAHSI), will gather students from across the US and Puerto Rico for a two day summit. | February |
-| [MongoDB Women in CS Summit](https://mongodbswicssummit2020.splashthat.com) | The summit is an inspiring day filled with technical workshops, professional development activities, and networking for undergraduates studying computer science who identify as women. | February |
-| [Google Bold Immersion Program](https://buildyourfuture.withgoogle.com/programs/bold-immersion/) | The Building Opportunities for Leadership and Development (BOLD) Immersion program gives students the opportunity to immerse themselves in a culture where great minds, cutting-edge technology and smart business intersect to make a difference — each and every day. Sophomores. | December |
-| [DE Shaw Fellowships](https://fellowships.deshaw.com) | Over the course of three days, fellows participate in a set of unique educational opportunities designed to bring together talented and intellectually curious students and provide them with exposure to what we do at the firm through interactive case studies, seminars led by visiting professors, and sessions with the firm’s own analysts. You get a stipend of $1500. | Depends on the fellowship |
-| [Jane Street Women in Tech and Trading](https://www.janestreet.com/witt) | Women in Trading and Technology (WiTT) is a three-day programme designed for women in their penultimate year of university as of autumn 2020. Participants will have an exclusive opportunity to explore careers within our firm and attend one of two educational programmes: quantitative trading and software engineering. | June |
-| [Jane Street FOCUS](https://www.janestreet.com/focus?fbclid=IwAR2f4XY7jPaxrNk5OXTmhS0YtQMHVDDbxN3y0FLaFV_jgX7QNMM9duHdWNo) | Over the course of two days, you will participate in classes, discussions, and activities that are structured to provide a broad overview of the work our trading, software development, and business development teams do. There will also be opportunities to connect virtually with other attendees and employees from across the firm. | July |
-| [Jane Street Programs](https://www.janestreet.com/join-jane-street/our-programs/) | If you have never thought about a career in finance, you are in good company. Many of us had little to no experience in economics or finance before working here. We look for smart people from any background with a curious mind and a passion for technology and creative problem-solving. In other words, people like you! | Depends on the program |
-| [Spring technology early insight Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/2/opp/9425-2020-Spring-Technology-Early-Insights-Day/en-GB) | We invite students who are interested in learning about our 2021 Technology Campus Programs and the world of Technology at Morgan Stanley to apply for an opportunity to attend our Spring Technology Early Insights Event in our New York City office. Participation is limited and selected candidates will be notified directly. | March |
-| [Code 2040 Tech Trek](http://www.code2040.org/tech-trek) | Tech Trek is designed to address the key factors in the retention and persistence of Black and Latinx computer science/engineering majors’ on the path to becoming thriving technologists and leaders in the innovation economy. The all-expenses paid program connects you with a cohort of 50 Black and Latinx students from across the United States to gain the network, resources, and community needed to launch and sustain your tech career. | July |
-| Target Diversity Leadership Symposium | Target is hosting an intensive 3-day leadership symposium for up to 40 sophomores at Target Headquarters. The symposium will focus on diversity and inclusion, development, the retail industry, and internship opportunities at Target. | May |
-| [Facebook Design Summit](https://facebookdesignsummit2020.splashthat.com/?fbclid=IwAR1YWx25kIblo6acAQA3L6tsWuk_Xrd2Ml5jleaPex0Y0KJ4YUc9-maGaQI) | This two-day virtual program is open to students from all North American schools who identify as part of a historically underrepresented group in the technology industry, including but not limited to Black, Hispanic, and Native American students, students with disabilities and veterans. Each selected participant will have the opportunity to join workshops, portfolio reviews, and interview preparation sessions, as well as spend valuable time learning and collaborating with Facebook product designers, content strategists and design leadership. | May |
-| [P&G Emerging Leaders Information Technology](https://www.pgcareers.com/job/cincinnati/information-technology-emerging-leaders-2022-internship-sophomore/936/17085179) | Join us for an all-expense paid 3 day trip to our global headquarters in Cincinnati, Ohio to see what P&G stands for and why this is the place for you! Meet our leaders, learn about our brands, the amazing careers we nurture and grow, and the millions of lives you can impact along the way. You will be with 200 of the best top candidates from around the country. You will have a BLAST and a chance to walk away with an IT internship with us for the summer of 2022. Sophomores. | September |
-| [Discover Citadel](https://www.citadel.com/careers/discover-citadel/) | Discover Citadel and Citadel Securities is a two-day event that will allow you to Discover Citadel, a leading investor in the world’s financial markets, and Citadel Securities, a leading global market maker – and explore Chicago! Must be a first-year or second-year to apply | December |
-| [Technology Inside Track Series Diversity Program](https://joinus.barclays/americas/diversity-programs-career/technology-inside-track-series-diversity-program/) | If you're a dedicated and motivated junior – and you've already decided your future is in financial services – apply for the Barclays Technology Inside Track Series! It’s a great way to secure an early offer. That way, you can spend the school year focused on studying, not recruitment. | September |
-| [Ignite with Tech](https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/2067-Ignite-with-Tech/en-GB?fbclid=IwAR2lPQ8W7_graetvLg1dvaryK3wdtx3oYmGwvPMfwHPx3ORDAVuYShGuVfw) | The Bank of America Ignite with Tech Program is a one and a half day insight program targeted to Black, African American, Hispanic, Latino, Alaskan Native and American Indian freshman and sophomore students interested in our technology business. This event provides a unique opportunity to meet business professionals first hand, learn about the financial services industry, and start preparing for the application process. | March |
-| [Women in Technology Forum](https://www.wellsfargojobs.com/job/-/-/1251/17281627?utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed) | The Wells Fargo Women in Technology Intern Virtual Forum is an exclusive two-day program designed to encourage and inspire women who have an interest in pursuing a career in Technology. A select group of high-performing students from diverse backgrounds will be invited to participate. During the virtual forum, you will have the opportunity to learn from successful women in technology at Wells Fargo who will share their expertise and knowledge to help you become a future leader. | September |
-| [Palantir Launch: Spring Program](https://www.palantir.com/careers/students/launch/) | The Palantir Launch: Spring Program is an insight program for students looking to accelerate their personal and technical growth in preparation for a successful, impactful career in tech. Across the course of one week you’ll get exposure to different aspects of Palantir’s business and the skills needed to help us solve some of the world’s hardest problems.  | Fall | 
-| Facebook Wayfinder | 3 day, invite only, selective event. | **Invitation only** (ask a recruiter) |
-| Pinterest Engage | Unpaid. Pinterest Engage is an early identification program for freshman students enrolled in a bachelor’s degree program with a demonstrated interest in majoring in computer science. | January (?) |
-
-
-## CS conferences and scholarships
-
-| Name | Description | Approximate Deadline |
-| --- | --- | --- |
-| [Grace Hopper Scholarship](https://ghc.anitab.org) | The GHC Scholars Program provides funds for women who are either undergraduate students, graduate students, or faculty to attend our Celebration. Women who get selected as scholars gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime. | March |
-| [Google Conference Scholarships](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships) | While all qualified industry professionals and students are able to apply, we’ve designed our North American program to expose career opportunities to those who identify as historically excluded in tech. This includes those who identify as Women, Black/African American/Caribbean/WestIndies, Hispanic/Latinx, and Native American/First Nations. | June |
-| [Tapia Conference Scholarship](http://tapiaconference.org) | The Tapia Conference provides conference travel scholarships for students (community college/undergraduate/graduate), and post-docs at colleges/universities in the U.S and U.S. Scholarships include conference registration, meals during the conference, hotel accommodations, and a reimbursable travel stipend. | March |
-| [Greylock Techfair](https://greylock.com/university-programs/) | Techfair is not an ordinary career fair. Rather, it’s your opportunity to connect with engineers, product leaders, and designers at the fastest-growing startups in Silicon Valley. Students have the opportunity to ask questions directly to potential teammates and learn about what makes each company unique. Techfair helps you create career connections, regardless of whether you’re looking for internships or full-time opportunities. Startup, invite only. | Summer |
-| [RTC Career Summit](https://rewritingthecode.org/rtc-career-summit/) | As part of our community you will have access to hear directly from companies about their open roles through virtual events and booths, all for a nominal fee ($15 or essay). | August |
-| [SHPE National Converntion](https://shpe.org/engage/events/national-convention/) | SHPE National Convention serves as the country’s largest, annual gathering of Hispanic STEM students and professionals. | Spring |
-
-## Coding interview resources
-
 | Name | Description | 
-| --- | --- | 
+| --- | --- |
+| [Bessemer Fellowship Program](https://www.bvp.com/bessemer-fellows) | A Bessemer Fellow is a special appointment for high-performing students interested in engineering, product, or data science within the Bessemer portfolio. We accept students who have demonstrated excellence in their academic or professional pursuits and have a deep passion for entrepreneurship and innovation.
+| [thrivecap Fellows](https://fellows.thrivecap.com) | In this inaugural class, the Thrive Summer Fellowship will provide a select group of rising college juniors with an 8-week paid internship, a stipend to offset education costs, and exclusive access to the Thrive team and portfolio organizations. |
+| [Neo Scholar](https://neo.com/scholars) | Get matched to start-ups, plus mentorship & resources for building your own |
+| [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | Match students to media tech companies for all seasons. Available for students in CS, Business, Journalism, etc. Open year round I believe |
+| [INROADS](https://inroads.org/apply/) | General matching program for internships |
+| ✨ [Civic Digital Fellowship](https://www.codingitforward.com/fellowship) | Connecting students in tech to government offices. Website says open in October |
+| [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups |
+| [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | Match students to various tech start-ups |
+| [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | Match students to various tech start-ups |
+| [YES Internships](https://www.internships.yesatyale.org/students) | Match students to various tech start-ups |
+| [Code2040 Fellows](https://www.code2040.org/fellows-program) | Match Black & Latinx students to summer internships.  |
+| [HackNY Fellowship](https://hackny.org/fellows-program) | Provides a shared housing community for NYC interns. Financial aid avaliable. Match a few of the applicants to NYC tech start-ups too |
+| [Hack Diversity](https://www.hackdiversity.com/) | Provides preparation for and high matching rate for students in the Boston and NYC with Summer internships |
+| [Bessemer Fellowship](https://www.bvp.com/bessemer-fellows) | 8-12 week program. Focused on students from underrepresented backgrounds|
+| [Susa Summer Fellowship](https://susaventures.com/summer-fellows) | An immersive summer program that connects high-performing university students to software engineering internships at startups in the Susa portfolio |
+| [Coding It Forward Fellowship](https://www.codingitforward.com/fellowship) | Coding it Forward’s Fellowship is a paid, 10-week summer opportunity for early-career technologists. Students are matched with a government entity for an internship experience. |
+
+## CS Exploratory Programs
+All of the programs are all expenses paid. 
+| Name | Year | Description | Approximate Deadline |
+| --- | --- | --- | --- |
+| [Empower - Sophomore Associate Product Manager Summit](https://www.uberapms.com/empower-summit?fbclid=IwAR3EFXXjfqNGcqORLHUb1cNOlm9mZLqT7JMjV23xOnIoMwi5__mIJUjEg3Q) | 2nd years | This free, multi-day seminar for Sophomores is an introduction to Product Management and the tech industry. Empower is open to all majors, and provides students with skills to succeed as a Product Manager, mentors to guide their development and journey, and a community to connect them to a group of ambitious students. | July |
+| [Capital One Software Engineer Summit](https://campus.capitalone.com/summits/) | 1st and 2nd years |  During this one-week program, a small, exceptional group of freshmen and sophomores will be immersed in our startup-minded and innovative culture while exploring and developing the technology and problem-solving skills valued by today’s top employers. If chosen for this highly selective program, you’ll take part in technical and soft-skill training sessions. | **Invitation only** (ask a recruiter) |
+| [HRT Women in Trading Technology Internship - Jan](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3534845) | 1st and 2nd years | An informative 4 week exploration into automated trading. The goal of this program is to give Freshmen and Sophomores who don’t currently have exposure into our industry and insight into who we are and what we do. | November |
+| [Google Latinx Student Leadership Summit](https://buildyourfuture.withgoogle.com/events/latinxstudentleadershipsummit) | All students | The 2023 Latinx Student Leadership Summit (LSLS), sponsored by Google in partnership with the Hispanic Association of Colleges and Universities (HACU) and the Computing Alliance of Hispanic Serving Institutions (CAHSI), will gather students from across the US and Puerto Rico for a two day summit. | February |
+| [MongoDB Women in CS Summit](https://mongodbswicssummit2020.splashthat.com) | All students | The summit is an inspiring day filled with technical workshops, professional development activities, and networking for undergraduates studying computer science who identify as women. | February |
+| [Google Bold Immersion Program](https://buildyourfuture.withgoogle.com/programs/bold-immersion/) | 2nd years | The Building Opportunities for Leadership and Development (BOLD) Immersion program gives students the opportunity to immerse themselves in a culture where great minds, cutting-edge technology and smart business intersect to make a difference — each and every day. | December |
+| [DE Shaw Fellowships](https://fellowships.deshaw.com) | 2nd years | Over the course of three days, fellows participate in a set of unique educational opportunities designed to bring together talented and intellectually curious students and provide them with exposure to what we do at the firm through interactive case studies, seminars led by visiting professors, and sessions with the firm’s own analysts. You get a stipend of $1500. | Depends on the fellowship |
+| [Jane Street Women in Tech and Trading](https://www.janestreet.com/witt) | 1st and 2nd years | Women in Trading and Technology (WiTT) is a three-day programme designed for women in their penultimate year of university. Participants will have an exclusive opportunity to explore careers within our firm and attend one of two educational programmes: quantitative trading and software engineering. | June |
+| [Jane Street FOCUS](https://www.janestreet.com/focus?fbclid=IwAR2f4XY7jPaxrNk5OXTmhS0YtQMHVDDbxN3y0FLaFV_jgX7QNMM9duHdWNo) | 1st and 2nd years | Over the course of two days, you will participate in classes, discussions, and activities that are structured to provide a broad overview of the work our trading, software development, and business development teams do. There will also be opportunities to connect virtually with other attendees and employees from across the firm. | July |
+| [Jane Street Programs](https://www.janestreet.com/join-jane-street/our-programs/) | 1st and 2nd years | If you have never thought about a career in finance, you are in good company. Many of us had little to no experience in economics or finance before working here. We look for smart people from any background with a curious mind and a passion for technology and creative problem-solving. In other words, people like you! | Depends on the program |
+| [Spring technology early insight Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/2/opp/9425-2020-Spring-Technology-Early-Insights-Day/en-GB) | All students | We invite students who are interested in learning about our Technology Campus Programs and the world of Technology at Morgan Stanley to apply for an opportunity to attend our Spring Technology Early Insights Event in our New York City office. Participation is limited and selected candidates will be notified directly. | March |
+| [Code 2040 Tech Trek](http://www.code2040.org/tech-trek) | 2nd and 3rd years | Tech Trek is designed to address the key factors in the retention and persistence of Black and Latinx computer science/engineering majors’ on the path to becoming thriving technologists and leaders in the innovation economy. The all-expenses paid program connects you with a cohort of 50 Black and Latinx students from across the United States to gain the network, resources, and community needed to launch and sustain your tech career. | July |
+| Target Diversity Leadership Symposium | 2nd years | Target is hosting an intensive 3-day leadership symposium for up to 40 sophomores at Target Headquarters. The symposium will focus on diversity and inclusion, development, the retail industry, and internship opportunities at Target. | May |
+| [Facebook Design Summit](https://facebookdesignsummit2020.splashthat.com/?fbclid=IwAR1YWx25kIblo6acAQA3L6tsWuk_Xrd2Ml5jleaPex0Y0KJ4YUc9-maGaQI) | This two-day virtual program is open to students from all North American schools who identify as part of a historically underrepresented group in the technology industry, including but not limited to Black, Hispanic, and Native American students, students with disabilities and veterans. Each selected participant will have the opportunity to join workshops, portfolio reviews, and interview preparation sessions, as well as spend valuable time learning and collaborating with Facebook product designers, content strategists and design leadership. | May |
+| [P&G Emerging Leaders Information Technology](https://www.pgcareers.com/job/cincinnati/information-technology-emerging-leaders-2022-internship-sophomore/936/17085179) | 2nd years | Join us for an all-expense paid 3 day trip to our global headquarters in Cincinnati, Ohio to see what P&G stands for and why this is the place for you! Meet our leaders, learn about our brands, the amazing careers we nurture and grow, and the millions of lives you can impact along the way. You will be with 200 of the best top candidates from around the country. You will have a BLAST and a chance to walk away with an IT internship with us for the summer of 2022. Sophomores. | September |
+| [Discover Citadel](https://www.citadel.com/careers/discover-citadel/) | 1st and 2nd years | Discover Citadel and Citadel Securities is a two-day event that will allow you to Discover Citadel, a leading investor in the world’s financial markets, and Citadel Securities, a leading global market maker – and explore Chicago! Must be a first-year or second-year to apply | December |
+| [Technology Inside Track Series Diversity Program](https://joinus.barclays/americas/diversity-programs-career/technology-inside-track-series-diversity-program/) | 3rd years | If you're a dedicated and motivated junior – and you've already decided your future is in financial services – apply for the Barclays Technology Inside Track Series! It’s a great way to secure an early offer. That way, you can spend the school year focused on studying, not recruitment. | September |
+| [Ignite with Tech](https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/2067-Ignite-with-Tech/en-GB?fbclid=IwAR2lPQ8W7_graetvLg1dvaryK3wdtx3oYmGwvPMfwHPx3ORDAVuYShGuVfw) | 1st and 2nd years | The Bank of America Ignite with Tech Program is a one and a half day insight program targeted to Black, African American, Hispanic, Latino, Alaskan Native and American Indian freshman and sophomore students interested in our technology business. This event provides a unique opportunity to meet business professionals first hand, learn about the financial services industry, and start preparing for the application process. | March |
+| [Women in Technology Forum](https://www.wellsfargojobs.com/job/-/-/1251/17281627?utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed) | All students | The Wells Fargo Women in Technology Intern Virtual Forum is an exclusive two-day program designed to encourage and inspire women who have an interest in pursuing a career in Technology. A select group of high-performing students from diverse backgrounds will be invited to participate. During the virtual forum, you will have the opportunity to learn from successful women in technology at Wells Fargo who will share their expertise and knowledge to help you become a future leader. | September |
+| [Palantir Launch: Spring Program](https://www.palantir.com/careers/students/launch/) | All students | The Palantir Launch: Spring Program is an insight program for students looking to accelerate their personal and technical growth in preparation for a successful, impactful career in tech. Across the course of one week you’ll get exposure to different aspects of Palantir’s business and the skills needed to help us solve some of the world’s hardest problems.  | Fall | 
+| Pinterest Engage | 1st year | Unpaid. Pinterest Engage is an early identification program for freshman students enrolled in a bachelor’s degree program with a demonstrated interest in majoring in computer science. | January (?) |
+| [Jane Street INFOCUS](https://www.janestreet.com/join-jane-street/programs-and-events/in-focus/) | All student | Insight into Jane Street for trading, software engineering, and strategy/product design |
+| [Jane Street INSIGHT](https://www.janestreet.com/join-jane-street/programs-and-events/insight/)| All student | Insight into Jane Street for women, transgender, and gender-expansive people |
+| [Jane Street FOCUS](https://www.janestreet.com/join-jane-street/programs-and-events/focus/) | All student | Insight into Jane Street |
+| [DE Shaw & Co Discovery Fellowship](https://fellowships.deshaw.com/) | 2nd year | Open to second-year students currently enrolled in a full-time undergraduate program at a U.S. college or university who self-identify as women. *$1,500 stipend |
+| [DE Shaw & Co Latitude Fellowship](https://fellowships.deshaw.com/) | 2nd year | Currently enrolled in a full-time undergraduate program at a U.S. college or university who self-identify as Native American or Alaska Native, Black or African American, Hispanic or Latino, or Native Hawaiian or Other Pacific Islander.  *$1,500 stipend |
+| [DE Shaw & Co Momentum Fellowship](https://fellowships.deshaw.com/) | 2nd year | Currently enrolled in a full-time undergraduate program at a U.S. college or university who self-identify self-identify as part of the LGBTQIA+ community. *$1,500 stipend |
+| [DE Shaw & Co Nexus Fellowship](https://fellowships.deshaw.com/) | 2nd year | Currently enrolled in a full-time undergraduate program at a U.S. college or university. We’re always on the lookout for exceptional talent from all backgrounds and identities, and especially encourage applications from students attending schools including (but not limited to) public universities, historically Black colleges and universities (HBCUs), Hispanic-Serving Institutions (HSIs), and liberal arts colleges. *$1,500 stipend |
+| [Nordstrom Nspire](https://careers.nordstrom.com/#/tech/tech-home) | All student | Insight into technology at Nordstrom and interview for internship at the end. Control F nspire on the career site to find it |
+
+## CS Conferences and Scholarships
+| Name | Year | Description | Approximate Deadline |
+| --- | --- | --- | --- |
+| [Grace Hopper Scholarship](https://ghc.anitab.org) | All student | The GHC Scholars Program provides funds for women who are either undergraduate students, graduate students, or faculty to attend our Celebration. Women who get selected as scholars gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime. | March |
+| [Google Conference Scholarships](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships) | All student | While all qualified industry professionals and students are able to apply, we’ve designed our North American program to expose career opportunities to those who identify as historically excluded in tech. This includes those who identify as Women, Black/African American/Caribbean/WestIndies, Hispanic/Latinx, and Native American/First Nations. | June |
+| [Tapia Conference Scholarship](http://tapiaconference.org) | All student | The Tapia Conference provides conference travel scholarships for students (community college/undergraduate/graduate), and post-docs at colleges/universities in the U.S and U.S. Scholarships include conference registration, meals during the conference, hotel accommodations, and a reimbursable travel stipend. | March |
+| [Greylock Techfair](https://greylock.com/university-programs/) | All student | Techfair is not an ordinary career fair. Rather, it’s your opportunity to connect with engineers, product leaders, and designers at the fastest-growing startups in Silicon Valley. Students have the opportunity to ask questions directly to potential teammates and learn about what makes each company unique. Techfair helps you create career connections, regardless of whether you’re looking for internships or full-time opportunities. Startup, invite only. | Summer |
+| [RTC Career Summit](https://rewritingthecode.org/rtc-career-summit/) | All student | As part of our community you will have access to hear directly from companies about their open roles through virtual events and booths, all for a nominal fee ($15 or essay). | August |
+| [SHPE National Converntion](https://shpe.org/engage/events/national-convention/) | All student | SHPE National Convention serves as the country’s largest, annual gathering of Hispanic STEM students and professionals. | Spring |
+| [AfroTech](https://experience.afrotech.com/conference/) | All student | Technology conference for Black students | Fall |
+| [BaddieCon](https://www.eop.com/index.php](https://www.baddiesintech.com/baddiecon)) | All student | Convention for women of color in tech | Fall |
+| [Google Lime](https://buildyourfuture.withgoogle.com/scholarships/google-lime-scholarship) | All student | 10,000 USD scholarship for students with disabilities (visible or invisible) in computer science. | Fall |
+| [Generation Google Scholars](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship) | All student | 10,000 USD scholarship for students with financial need in computer science. | Fall |
+| [Activision Blizzard King Aspiring Women* in Games Scholarship](https://careers.activisionblizzard.com/abkaspiringwomen) | All student | This scholarship will give you the opportunity to virtually attend the 2021 Game Developers Conference (GDC). By securing this scholarship you also will receive: passes to attend GDC with us, exclusive networking, learning and development opportunities and technology equipment to enhance your studies! Application review and interview. | November |
+| [Palantir Future Scholarship](https://www.palantir.com/students/scholarship/future/) | All student | This year, 10 scholarship recipients will be chosen and invited to visit our headquarters in Palo Alto for a full-day, all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts with our engineers, and some fun social activities! All recipients are awarded grants of $7,000 to support their education. | March | 
+| [Palantir Women in Tech Scholarship ](https://www.palantir.com/students/scholarship/wit-north-america/) | All student | This year, 10 scholarship recipients will be chosen and invited to visit our Washington, D.C. office for a full-day, all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts with our engineers, and some fun social activities! All recipients are awarded $7,000 to support their education. | March | 
+| [Quip Diversity Scholarship](https://quip.com/blog/2020-quip-diversity-scholarship) | All student | The Quip team will review applications, choose winners and runners-up, and then invite them to a full day of learning and mentorship.* Each scholarship winner will receive $5,000 and each runner-up will receive $1,000 toward their education. | June |
+| [VMware Scholarships](https://careers.vmware.com/scholarships) | All student | The VMware Achieve Scholarship offers a one-time monetary award up to $10,000 USD for tuition and fees to a woman studying at a university in the United States. The VMware Rise Scholarship offers a one-time monetary award of $5,000 USD for tuition and fees to two students coming from underrepresented communities in the United States. | May |
+| [Adobe Research Women-in-Technology Scholarship](https://research.adobe.com/scholarship/) | All student | The Adobe Research Women-in-Technology Scholarship recognizes outstanding female undergraduate and master’s students studying artificial intelligence/machine learning, data science, computer science or mobile/web development at North American universities (including Canada and Mexico). | Unsure |
+| [Two Sigma Undergraduate Scholarship](https://www.twosigma.com/community/academic-partnerships/undergraduate/scholarships/) | All student | Two Sigma's Undergraduate Scholarship is open to all undergraduate students who are expanding frontiers in a STEM field such as statistics, applied mathematics, computer science, and physics. | November | 
+| [Apple Pathways Academy](https://programs.applyists.com/applepathwaysacademy/) | All student | The Apple Pathways Academy is a community of learning and discovery targeting high-performing Black, Hispanic/Latinx, and Indigenous sophomores majoring in computer science and engineering. Current sophomores, 15k/year. | Feb |
+
+## Coding Interviews
+| Name | Description | 
+| --- | --- |
 | [Leetcode](https://leetcode.com) | LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. LeetCode free is enough. | 
 | [Cracking the Coding Interview](http://www.crackingthecodinginterview.com) | Book with good resources. The Career Center has one that you can borrow |
 | [Interview Cake](https://www.interviewcake.com) | Good Data Structures articles, you can get 3 weeks free with the Github Student Developer Pack |
 | [Hackerrank](https://www.hackerrank.com/) | HackerRank is the market-leading technical assessment and remote interview solution for hiring developers. There are tons of questions and timed tests to help you practice. |
 | [Algo expert](https://www.algoexpert.io/product) | Newly developed toolkit of questions. Comes with videos explaining solutions to all the problems and with a crash course on data structures and algorithms. |
 | [CodePath Summer Interview Prep](https://www.codepath.org/courses) | Free and selective summer virtual course taught by professional engineers to help you ace technical interviewing and give you a preview of real-world software topics in industry. This course prepares you for solving challenging algorithm problems in real whiteboard and coding interviews at top companies. Includes lectures, labs, mock interview practice, and info sessions from industry experts. Deadline to apply: May. |
-| Facebook ABCS | The ABCS program is a 9-week free workshop series that is designed to review and master the knowledge, skills, and mindsets for a successful technical interview in industry. Although virtual, the ABCS program offers an opportunity to get to know a community of peers, practice applied problem solving, and take advantage of mentorship opportunities and mock phone screens to prepare for opportunities this fall. Juniors and Seniors. Deadline to apply: May.  |
-
+| [Non "Whiteboard" Interviews](https://github.com/poteto/hiring-without-whiteboards) | Companies that don't conduct standard OAs or virtual technical interview practice |
+| [Online Assessment Standard Interviews](https://github.com/Leader-board/OA-and-Interviews/blob/main/Online%20Assessments.md) | Provides overview booklet of standard OA and virtual technical interview practices and what to expect |
 
 ## CS Mentorship
-
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [Code 2040 Early Career Accelerator](http://www.code2040.org/early-career-accelerator-program) | Participants will receive socio-emotional, professional, and management development through in-person workshops, mentorship and coaching, and online engagement. In this program, we’ll build community, make space to commiserate, and most importantly, find tactical solutions to the professional and cultural roadblocks we face in the workplace. | September |
 | [Management Leadership for Tomorrow Career Prep SWE Track](https://mlt.org/career-prep/) | Career Prep is a rigorous, 18-month career development program for emerging leaders. Through the program, Fellows explore their strengths, passions, and interests in order to prepare and plan for successful careers in business and tech. Sophomores, US citizens only | October |
 | [Uber Career Prep Fellows Program](https://www.hiddengeniusproject.org/ubercareerprep/) |As a Career Prep Fellow, Uber will help you take your skills to the next level in partnership with experts in the field. This year-long program will consist of five virtual workshops. Topics will vary for each session covering a range of competencies such as: technical interview skills, insights into how top engineers succeed, communication and self-marketing skills, engineering competencies, and so much more. You do 5 mock interviews with Uber engineers and in July interview for Uber SWE internship or full time. | November |
 
-## CS Scholarships
-
-| Name | Description | Approximate Deadline |
-| --- | --- | --- |
-| [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/) | Selected students will receive 10,000 USD (for those studying in the US). Scholarships will be awarded based on the strength of each candidate's impact on diversity, demonstrated leadership, and academic background. | Fall |
-| [Activision Blizzard King Aspiring Women* in Games Scholarship](https://careers.activisionblizzard.com/abkaspiringwomen) | This scholarship will give you the opportunity to virtually attend the 2021 Game Developers Conference (GDC). By securing this scholarship you also will receive: passes to attend GDC with us, exclusive networking, learning and development opportunities and technology equipment to enhance your studies! Application review and interview. | November |
-| [Palantir Future Scholarship](https://www.palantir.com/students/scholarship/future/) | This year, 10 scholarship recipients will be chosen and invited to visit our headquarters in Palo Alto for a full-day, all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts with our engineers, and some fun social activities! All recipients are awarded grants of $7,000 to support their education. | March | 
-| [Palantir Women in Tech Scholarship ](https://www.palantir.com/students/scholarship/wit-north-america/) | This year, 10 scholarship recipients will be chosen and invited to visit our Washington, D.C. office for a full-day, all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts with our engineers, and some fun social activities! All recipients are awarded $7,000 to support their education. | March | 
-| [Quip Diversity Scholarship](https://quip.com/blog/2020-quip-diversity-scholarship) | The Quip team will review applications, choose winners and runners-up, and then invite them to a full day of learning and mentorship.* Each scholarship winner will receive $5,000 and each runner-up will receive $1,000 toward their education. | June |
-| [VMware Scholarships](https://careers.vmware.com/scholarships) | The VMware Achieve Scholarship offers a one-time monetary award up to $10,000 USD for tuition and fees to a woman studying at a university in the United States. The VMware Rise Scholarship offers a one-time monetary award of $5,000 USD for tuition and fees to two students coming from underrepresented communities in the United States. | May |
-| [Adobe Research Women-in-Technology Scholarship](https://research.adobe.com/scholarship/) | The Adobe Research Women-in-Technology Scholarship recognizes outstanding female undergraduate and master’s students studying artificial intelligence/machine learning, data science, computer science or mobile/web development at North American universities (including Canada and Mexico). | Not sure |
-| [Two Sigma Undergraduate Scholarship](https://www.twosigma.com/community/academic-partnerships/undergraduate/scholarships/) | Two Sigma's Undergraduate Scholarship is open to all undergraduate students who are expanding frontiers in a STEM field such as statistics, applied mathematics, computer science, and physics. | November | 
-| [Apple Pathways Academy](https://programs.applyists.com/applepathwaysacademy/) | The Apple Pathways Academy is a community of learning and discovery targeting high-performing Black, Hispanic/Latinx, and Indigenous sophomores majoring in computer science and engineering. Current sophomores, 15k/year. | Feb |
-
 ## CS Research
-
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [Brown + Google exploreCSR](http://explorecsr.cs.brown.edu/?fbclid=IwAR0wxlRlNNpk7vKRy0-fYEs7qFQ3Ogp0GCCiIbVhJW1M24ZH4UnIsLVkyag) | This year, Brown CS is proud to partner with Google Research to offer exploreCSR: Socially-Responsible AI for Computational Creativity, a semesterlong immersive research experience program for undergraduate students which focuses on exactly these subjects. We encourage students from historically-underrepresented groups within computer science to apply | December |
@@ -200,11 +227,7 @@ All of the programs are all expenses paid.
 | [D.E. Shaw Research Undergraduate Fellowship](https://www.deshawresearch.com/stemfellowship/) | Two-day educational opportunity open to current underrepresented freshmen and sophomores in STEM. Join us to learn about the research and scientific computing projects at D. E. Shaw Research, to participate in skills-building workshops in computational biochemistry and scientific visualization, and to connect with members of our interdisciplinary team and peers from across the country who share an interest in science and technology. We offer a stipend to all Undergraduate Fellows. | December |
 | [NYU CDS Undergraduate Research Program (CURP)](https://cds.nyu.edu/curp/) | CURP is a research mentorship program designed for a diverse group of undergraduate students who have completed at least two years of university-level courses and would like to conduct research in data science. The duration of the program will vary from 3-6 months depending on the research project, but the first cohort is set to begin the program in January 2021. A CURP fellowship award will be offered. United States citizen or be a permanent resident | December |
 | [Undergrad Architecture Mentoring (uArch) Workshop](https://sites.google.com/wisc.edu/5thuarchworkshop/) | The Undergraduate Architecture Mentoring (uArch) Workshop is designed to introduce undergraduate and early Master's students to research and career opportunities in the field of computer architecture in particular and graduate school lifestyle and survival skills in general. | March |
-
-## CS Research Experience Undergraduates (REU)
-
-| Name | Description | Approximate Deadline |
-| --- | --- | --- |
+| [The Leadership Alliance](https://theleadershipalliance.org/) | Matches undergraduate students to research internship institutions in the USA | December |
 | [Harvey Mudd College Department of Computer Science](https://www.hmc.edu/cs/research/reu/) | The program is open to US citizens and permanent residents who are enrolled in undergraduate degree programs. All qualifying students are welcome! Both we at HMC and the NSF invest in building diversity in CS. Both encourage members of groups traditionally underrepresented in postsecondary CS to apply. The program involves a total of 10 students working with faculty members at Harvey Mudd for 10 weeks over the summer. Students will receive a summer stipend, as well as on-campus housing and meals at no cost. | March |
 | [NSF website](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5049) | Listing of opportunities for Computer and Information Science and Engineering REU sites | Check the website |
 | [NCAR](https://www2.cisl.ucar.edu/outreach/internships) | Summer Internships in Parallel Computational Science (SIParCS) embed students in CISL to provide them with significant hands-on experience in high-performance computing and related fields that use HPC for scientific discovery and modeling. | ? |
@@ -212,16 +235,8 @@ All of the programs are all expenses paid.
 | [Research Experience for Undergraduates Repo](https://github.com/prabhupradhan/reu) | List of opportunities available to Undergraduate student in engineering sciences. | N/A | 
 | [CMU Data Science for Social Good](https://www.dssgfellowship.org) | The Data Science for Social Good Fellowship is a full-time summer program to train aspiring data scientists to work on machine learning, data science, and AI projects with social impact in a fair and equitable manner. Working closely with governments and nonprofits, fellows take on real-world problems in education, health, criminal justice, sustainability, public safety, workforce development, human services, transportation, economic development, international development, and more. | March |
 
-## Other stuff
-
-| Name | Description | Approximate Deadline |
-| --- | --- | --- |
-| [Campus Visitations Grad School](https://mcnairscholars.com/campus-visitations/) | Many graduate schools offer visitation events.  These events may be paid for by the institution and offer a variety of services to assist students in applying for graduate programs. | Check the website |
-| [CS PhD Applications fee waivers](https://github.com/KaiserWhoLearns/CS-PhD-Application-fee-waivers) | Repo of CS PhD Application Fee Waivers of schools in North America | N/A |
-
-## Finance and consulting exploratory programs
+## Finance Exploratory Programs
 All of the programs are all expenses paid. Most of those programs have GPA requirments of 3.0+ or 3.5+. 
-
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [Goldman Sachs Diversity Programs - Several](https://www.goldmansachs.com/careers/students/programs/) | Goldman Sachs Undergraduate Camp (identify as black, Hispanic/Latino, Native American, and/or first-generation college students), Goldman Sachs Pride Summit (LGBTQ+ students), Hispanic Latino Leadership Summit (juniors), Women's Leadership Camp. Most are freshman & sophomore. | November |
@@ -264,13 +279,17 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [The Advancing Black Pathways Fellowship Program](https://www.jpmorganchase.com/impact/people/advancing-black-pathways/fellowship-program) | The Advancing Black Pathways (ABP) Fellowship Program offers a six-week paid; full-time summer fellowship held in select JPMorgan Chase offices. The ABP Fellowship Program is designed to attract undergraduate sophomores who are interested in early exposure to financial services careers and committed to the advancement of individuals from underrepresented groups in this industry. | March |
 
 ## Study Abroad Scholarships
+| Resource Link | Description | Approximate Deadline |
+| --- | --- | --- |
 
 # Networking and Connections Apps
-* [LinkedIn](https://www.linkedin.com/)
-* [Handshake](https://app.joinhandshake.com/stu)
-* [CS Opportunities Twitter](https://twitter.com/cs_opp?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-* [r/csMajors](https://www.reddit.com/r/csMajors/)
-* [Blind](https://www.teamblind.com)
+| Resource Link |
+| --- |
+[LinkedIn](https://www.linkedin.com/)
+[Handshake](https://app.joinhandshake.com/stu)
+[CS Opportunities Twitter](https://twitter.com/cs_opp?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+[r/csMajors](https://www.reddit.com/r/csMajors/)
+[Blind](https://www.teamblind.com)
 
 #  Job Searching, Applying, and Market Tracking
 | Resource Link | Description |
@@ -280,16 +299,18 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [Levels.FYI](https://www.levels.fyi/) | Transparent job salary, offer negotiations, and community services for tech jobs |
 | [Layoffs.FYI](https://www.layoffs.fyi/) | Transparent job market data on layoffs based on location, company, and industry |
 
-## Bonus: Resume and Tips
+## Resumes and Projects
+| Resource Link |
+| --- |
+| [How to Write a Kickass Resume](https://docs.google.com/document/u/1/d/e/2PACX-1vQpvbP8lzPvZrNvrX58UlacpQiLgh1fBQYfOS2pEJZvp-zOb9uKQJYKSsDQ6mJWoPf3H09OmdrLDcaK/pub?fbclid=IwAR0HLo_mONStDfwLuDcYo2eexckwo5VKM2L4Lh5O4hcQnVfjUU5RrZJ-2bM) |
+| [Good Resume Formats](https://www.careercup.com/resume?fbclid=IwAR1FyQqS0pwgjRCnNgzLNO70ndWAp9Ok9jQScMAyJxVtqK3_NOimNV9fmWY) |
+| [Harvard Resume Format](https://careerservices.fas.harvard.edu/resources/harvard-college-guide-to-resumes-cover-letters/) |
 
-1. Create a Linkedin and a GitHub and add some projects. 
-2. Read this resume guide and update your resume: [How to Write a Kickass Resume](https://docs.google.com/document/u/1/d/e/2PACX-1vQpvbP8lzPvZrNvrX58UlacpQiLgh1fBQYfOS2pEJZvp-zOb9uKQJYKSsDQ6mJWoPf3H09OmdrLDcaK/pub?fbclid=IwAR0HLo_mONStDfwLuDcYo2eexckwo5VKM2L4Lh5O4hcQnVfjUU5RrZJ-2bM) and [This is what a GOOD resume should look like](https://www.careercup.com/resume?fbclid=IwAR1FyQqS0pwgjRCnNgzLNO70ndWAp9Ok9jQScMAyJxVtqK3_NOimNV9fmWY)
-3. Go to the career center and ask them to check your resume, or ask someone you know to check it for you. 
-4. Get a CS related student job, there are some at Carleton! Examples: CS TA and grader, Data Squad, Web Services Student Developer, Academic Technology and ITS student worker, digital humanities intern... 
-5. You can also get a part-time internship! Some companies that offer part-time internships are Warner Bros. Discovery (HBO Max, ...), Fox News, Box, Wix, The Home Depot, HPE, Intel, NBC Universal, Wall Street Journal, Proofpoint, Crowdstrike, and IBM. Those are usually 16-24h/week that you do while taking classes full time (I recommend taking only 12-14 credits). 
-6. Ask for referrals if you know someone that works for the company that you are applying - more likely to get an interview. There is a list with Alumni willing to refer Carleton students.  
-7. Mock interviews with friends or online using a tool like Pramp is a great way to get a real life technical interview experience. 
-8. Want to know what's an SWE intern's salary at big tech companies? Check [Levels.fyi](https://www.levels.fyi/internships/?track=Software%20Engineer)
+## Misc Stuff
+| Name | Description | Approximate Deadline |
+| --- | --- | --- |
+| [Campus Visitations Grad School](https://mcnairscholars.com/campus-visitations/) | Many graduate schools offer visitation events.  These events may be paid for by the institution and offer a variety of services to assist students in applying for graduate programs. | Check the website |
+| [CS PhD Applications fee waivers](https://github.com/KaiserWhoLearns/CS-PhD-Application-fee-waivers) | Repo of CS PhD Application Fee Waivers of schools in North America | N/A |
 
 ## Thank you to contributors ❤️❤️
 * [LuisaE](https://github.com/LuisaE/opportunities)
@@ -297,4 +318,3 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 * [Ouckah](https://github.com/Ouckah/Summer2025-Internships)
 * [Simplify/PittCSC](https://github.com/SimplifyJobs/Summer2025-Internships)
  
-12. Bad at Leetcode? Here's a list of companies that don't do "whiteboard" interviews [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)

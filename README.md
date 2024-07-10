@@ -8,7 +8,7 @@ The list is maintained by [RemonBiz](https://instagram.com/remonbiz)! 💰⭐
 			<b>Follow me on Beacons.ai</b>
 			<div>
 				<a href="https://beacons.ai/legasse">
-          <img src="https://cdn.beacons.ai/user_content/AHnOl9MMnuMm1Z7JLxNaIU5g9qU2/profile_beacons.png?t=1636242247083" width="450" alt="Beacons.ai">
+          <img src="https://cdn.beacons.ai/user_content/AHnOl9MMnuMm1Z7JLxNaIU5g9qU2/profile_beacons.png?t=1636242247083" width="200" alt="Beacons.ai">
         </a>
 			</div>
 		</a>
@@ -16,7 +16,8 @@ The list is maintained by [RemonBiz](https://instagram.com/remonbiz)! 💰⭐
 	</p>
 </div>
 
-🙏 **Contribute by sending me a message [here](https://instagram.com/remonbiz) ** 🧠
+🙏 **Contribute by sending me a message [here](https://instagram.com/remonbiz)** 🧠
+
 ⚠️Please note that this repository contains a mix of resources applicable to students in America's and Internationally. ⚠️
 
 # Table of Contents 🤯✔️

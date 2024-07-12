@@ -254,7 +254,7 @@ All of the programs are all expenses paid.
 | [Research Experience for Undergraduates Repo](https://github.com/prabhupradhan/reu) | List of opportunities available to Undergraduate student in engineering sciences. | N/A | 
 | [CMU Data Science for Social Good](https://www.dssgfellowship.org) | The Data Science for Social Good Fellowship is a full-time summer program to train aspiring data scientists to work on machine learning, data science, and AI projects with social impact in a fair and equitable manner. Working closely with governments and nonprofits, fellows take on real-world problems in education, health, criminal justice, sustainability, public safety, workforce development, human services, transportation, economic development, international development, and more. | March |
 
-#CS General Graduate Scholarships
+## CS General Graduate Scholarships
 Some programs are for current undergraduates looking to pursue graduate school while some are for current graduates.
 | Name | Description | Requirement | Approximate Deadline |
 | --- | --- | --- |

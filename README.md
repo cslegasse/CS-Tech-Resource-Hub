@@ -33,6 +33,7 @@ This repo was created to centralize all opportunities related to CS/Tech across 
  * [Coding Interviews](#Coding-Interviews)
  * [CS Mentorship](#CS-Mentorship)
  * [CS Research](#CS-Research)
+ * [CS/General Graduate Scholarships (for current undergraduates)](#CS-General-Graduate-Scholarships)
  * [Finance+ exploratory programs](#finance-and-consulting-exploratory-programs)
  * [Study Abroad Scholarships](#study-abroad-scholarships)
  * [Networking and Connections Apps](#Networking-and-Connections-Apps)
@@ -253,10 +254,19 @@ All of the programs are all expenses paid.
 | [Research Experience for Undergraduates Repo](https://github.com/prabhupradhan/reu) | List of opportunities available to Undergraduate student in engineering sciences. | N/A | 
 | [CMU Data Science for Social Good](https://www.dssgfellowship.org) | The Data Science for Social Good Fellowship is a full-time summer program to train aspiring data scientists to work on machine learning, data science, and AI projects with social impact in a fair and equitable manner. Working closely with governments and nonprofits, fellows take on real-world problems in education, health, criminal justice, sustainability, public safety, workforce development, human services, transportation, economic development, international development, and more. | March |
 
+#CS General Graduate Scholarships
+Some programs are for current undergraduates looking to pursue graduate school while some are for current graduates.
+| Name | Description | Requirement | Approximate Deadline |
+| --- | --- | --- |
+| [GEM Fellowship](https://www.gemfellowship.org/) | The mission of The National GEM Consortium is to enhance the value of the nation’s human capital by increasing the participation of underrepresented groups (African Americans, American Indians, and Hispanic Americans) at the master’s and doctoral levels in engineering and science. | Undergraduate 4th year or current graduate student | November | 
+| [Barry Goldwaters Scholarship](https://goldwaterscholarship.gov/) | Provides scholarships to college sophomores and juniors who intend to pursue research careers in the natural sciences, mathematics and engineering, the Goldwater Foundation is helping ensure that the U.S. is producing the number of highly-qualified professionals the Nation needs in these critical fields. Provides **$10,000** for research.| 2nd and 3rd year undergraduates | January |
+| [Rhodes Scholarship](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/) | The Rhodes Scholarship is a fully funded, full time, postgraduate award which enables talented young people from around the world to study at the University of Oxford. | 4th year undergraduates | November | 
+| [Marshall Scholarship](https://www.marshallscholarship.org/) | The Marshall Scholarship is available to study at any British University in any subject at graduate level. | 4th year undergraduates | September |
+
 ## Finance Exploratory Programs
 All of the programs are all expenses paid. Most of those programs have GPA requirments of 3.0+ or 3.5+. 
-| Name | Description | Approximate Deadline |
-| --- | --- | --- |
+| Name | Description | Requirement | Approximate Deadline |
+| --- | --- | --- | --- |
 | [Goldman Sachs Diversity Programs - Several](https://www.goldmansachs.com/careers/students/programs/) | Goldman Sachs Undergraduate Camp (identify as black, Hispanic/Latino, Native American, and/or first-generation college students), Goldman Sachs Pride Summit (LGBTQ+ students), Hispanic Latino Leadership Summit (juniors), Women's Leadership Camp. Most are freshman & sophomore. | November |
 | Bain Capital's Women Investors of Tomorrow Summit | Bain Capital's Women Investors of Tomorrow Summit is an exciting program offering sophomore women a unique opportunity to gain exposure to the alternative asset industry. Selected participants will travel to Bain Capital’s Boston office* for an intensive half-day workshop and networking dinner. Sophomores | April |
 | [Barclays Sophomore Springboard](https://joinus.barclays/americas/diversity-programs-career/sophomore-springboard-diversity-program/) | We will offer talented, motivated undergraduate sophomores an opportunity to visit our New York office and explore career opportunities in the following areas: Banking, Sales and Trading. During the program, you will take part in business workshops, as well as specialized soft skill training and interview preparation. There will be plenty of opportunities to network with Barclays employees and your fellow program participants. | January |
@@ -297,7 +307,7 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [The Advancing Black Pathways Fellowship Program](https://www.jpmorganchase.com/impact/people/advancing-black-pathways/fellowship-program) | The Advancing Black Pathways (ABP) Fellowship Program offers a six-week paid; full-time summer fellowship held in select JPMorgan Chase offices. The ABP Fellowship Program is designed to attract undergraduate sophomores who are interested in early exposure to financial services careers and committed to the advancement of individuals from underrepresented groups in this industry. | March |
 
 ## Study Abroad Scholarships
-| Resource Link | Description/Requirment | Approximate Deadline |
+| Resource Link | Description/Requirement | Approximate Deadline |
 | --- | --- | --- |
 | [Tortuga Backpaacks Scholarship](https://www.tortugabackpacks.com/pages/study-abroad-scholarship) | The Tortuga Study Abroad Scholarship is awarded biannually to passionate students who want to explore the world. No specific requirements. | Spring - November, Fall - April |
 | [Benjamin A. Gilman Scholarship](https://www.gilmanscholarship.org/) | Must recieve federal pell grant | Fall - March, Spring - November |

@@ -257,11 +257,12 @@ All of the programs are all expenses paid.
 ## CS General Graduate Scholarships
 Some programs are for current undergraduates looking to pursue graduate school while some are for current graduates.
 | Name | Description | Requirement | Approximate Deadline |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | [GEM Fellowship](https://www.gemfellowship.org/) | The mission of The National GEM Consortium is to enhance the value of the nation’s human capital by increasing the participation of underrepresented groups (African Americans, American Indians, and Hispanic Americans) at the master’s and doctoral levels in engineering and science. | Undergraduate 4th year or current graduate student | November | 
 | [Barry Goldwaters Scholarship](https://goldwaterscholarship.gov/) | Provides scholarships to college sophomores and juniors who intend to pursue research careers in the natural sciences, mathematics and engineering, the Goldwater Foundation is helping ensure that the U.S. is producing the number of highly-qualified professionals the Nation needs in these critical fields. Provides **$10,000** for research.| 2nd and 3rd year undergraduates | January |
 | [Rhodes Scholarship](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/) | The Rhodes Scholarship is a fully funded, full time, postgraduate award which enables talented young people from around the world to study at the University of Oxford. | 4th year undergraduates | November | 
 | [Marshall Scholarship](https://www.marshallscholarship.org/) | The Marshall Scholarship is available to study at any British University in any subject at graduate level. | 4th year undergraduates | September |
+| [Ford Fellowship](https://www.nationalacademies.org/our-work/ford-foundation-fellowships) | The Ford Foundation Fellowships are designed to increase the diversity of the nation's college and university faculties by increasing their ethnic and racial diversity, maximize the educational benefits of diversity, and increase the number of professors who can and will use diversity as a resource for enriching the education of all students. | 4th year undergraduates | December |
 
 ## Finance Exploratory Programs
 All of the programs are all expenses paid. Most of those programs have GPA requirments of 3.0+ or 3.5+. 

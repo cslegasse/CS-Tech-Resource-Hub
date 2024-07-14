@@ -263,6 +263,8 @@ Some programs are for current undergraduates looking to pursue graduate school w
 | [Rhodes Scholarship](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/) | The Rhodes Scholarship is a fully funded, full time, postgraduate award which enables talented young people from around the world to study at the University of Oxford. | 4th year undergraduates | November | 
 | [Marshall Scholarship](https://www.marshallscholarship.org/) | The Marshall Scholarship is available to study at any British University in any subject at graduate level. | 4th year undergraduates | September |
 | [Ford Fellowship](https://www.nationalacademies.org/our-work/ford-foundation-fellowships) | The Ford Foundation Fellowships are designed to increase the diversity of the nation's college and university faculties by increasing their ethnic and racial diversity, maximize the educational benefits of diversity, and increase the number of professors who can and will use diversity as a resource for enriching the education of all students. | 4th year undergraduates | December |
+| [Hertz Foundation Graduate Fellowship](https://www.scholarships.com/scholarships/hertz-foundation-graduate-fellowship) | The Hertz Foundation's Graduate Fellowship award, which is based on merit (not need) consists of a cost of education allowance and a personal support stipend. | 4th year undegraduates | January |
+
 
 ## Finance Exploratory Programs
 All of the programs are all expenses paid. Most of those programs have GPA requirments of 3.0+ or 3.5+. 
@@ -313,6 +315,9 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [Tortuga Backpaacks Scholarship](https://www.tortugabackpacks.com/pages/study-abroad-scholarship) | The Tortuga Study Abroad Scholarship is awarded biannually to passionate students who want to explore the world. No specific requirements. | Spring - November, Fall - April |
 | [Benjamin A. Gilman Scholarship](https://www.gilmanscholarship.org/) | Must recieve federal pell grant | Fall - March, Spring - November |
 | [Fund for Education Abroad](https://fundforeducationabroad.org/) | Financial need and underrepresented group a requirement | Fall/Spring/AY - November |
+| [Schwarzman Scholarship](https://www.schwarzmanscholars.org/) | Apply for a one-year, fully-funded master’s program at Tsinghua University in Beijing, designed to build a global community of future leaders who will serve to deepen understanding between China and the rest of the world. | 4th year undergraduates | September |
+| [Fullbright Fellowship/Scholarship](https://fulbrightscholars.org/) | The Fulbright U.S. Scholar Program offers over 400 awards in more than 135 countries for U.S. citizens to teach, conduct research and carry out professional projects around the world.  College and university faculty, as well as artists and professionals from a wide range of fields can join over 400,000 Fulbrighters who have come away with enhanced skills, new connections, and greater mutual understanding. | Various years | Various dates |
+| [Boren Award](https://www.borenawards.org/) | Boren Scholars and Fellows study a wide range of critical languages, including Arabic, Chinese, Portuguese, and Swahili. Boren Awards are available to students of all proficiency levels who are committed to enhancing their skills. | Various years | September |
 
 # Networking and Connections Apps
 | Resource Link |

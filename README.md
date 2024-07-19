@@ -34,6 +34,7 @@ This repo was created to centralize all opportunities related to CS/Tech across 
  * [CS Mentorship](#CS-Mentorship)
  * [CS Research](#CS-Research)
  * [CS/General Graduate Scholarships (for current undergraduates)](#CS-General-Graduate-Scholarships)
+ * [Pre-graduate Exploratory Programs](#Pregraduate-Exploratory-Programs)
  * [Finance+ exploratory programs](#finance-and-consulting-exploratory-programs)
  * [Study Abroad Scholarships](#study-abroad-scholarships)
  * [Networking and Connections Apps](#Networking-and-Connections-Apps)
@@ -253,6 +254,9 @@ All of the programs are all expenses paid.
 | [Big Data Summer Institute - A SIBS Program](https://sph.umich.edu/bdsi/) | The Big Data Summer Institute, a SIBS program, is an interdisciplinary training and research program in biostatistics that introduces undergraduate students to the intersection of big data and human health — a rapidly growing field that uses quantitative analysis to help solve scientific problems and improve people’s lives. | March |
 | [Research Experience for Undergraduates Repo](https://github.com/prabhupradhan/reu) | List of opportunities available to Undergraduate student in engineering sciences. | N/A | 
 | [CMU Data Science for Social Good](https://www.dssgfellowship.org) | The Data Science for Social Good Fellowship is a full-time summer program to train aspiring data scientists to work on machine learning, data science, and AI projects with social impact in a fair and equitable manner. Working closely with governments and nonprofits, fellows take on real-world problems in education, health, criminal justice, sustainability, public safety, workforce development, human services, transportation, economic development, international development, and more. | March |
+| [MIT Summer Research Program](https://oge.mit.edu/msrp/) | The MIT Summer Research Program (MSRP) seeks to promote the value of graduate education; to improve the research enterprise through increased diversity; and to prepare and recruit the best and brightest for graduate education at MIT. | 2nd, 3rd, and 4th years | January |
+| [Columbia Summer Undergraduatae Research Experience (SURE)](https://www.engineering.columbia.edu/columbia-summer-undergraduate-research-experience-program) | URE is a unique academic-industry collaboration created to foster career exploration at the frontiers of engineering research. This 10-week summer research program in New York City is designed to introduce talented undergraduate students, with a demonstrated commitment to advancing the needs of historically marginalized groups in STEM, to research in this field. | 3rd and 4th years | January |
+
 
 ## CS General Graduate Scholarships
 Some programs are for current undergraduates looking to pursue graduate school while some are for current graduates.
@@ -264,6 +268,14 @@ Some programs are for current undergraduates looking to pursue graduate school w
 | [Marshall Scholarship](https://www.marshallscholarship.org/) | The Marshall Scholarship is available to study at any British University in any subject at graduate level. | 4th year undergraduates | September |
 | [Ford Fellowship](https://www.nationalacademies.org/our-work/ford-foundation-fellowships) | The Ford Foundation Fellowships are designed to increase the diversity of the nation's college and university faculties by increasing their ethnic and racial diversity, maximize the educational benefits of diversity, and increase the number of professors who can and will use diversity as a resource for enriching the education of all students. | 4th year undergraduates | December |
 | [Hertz Foundation Graduate Fellowship](https://www.scholarships.com/scholarships/hertz-foundation-graduate-fellowship) | The Hertz Foundation's Graduate Fellowship award, which is based on merit (not need) consists of a cost of education allowance and a personal support stipend. | 4th year undegraduates | January |
+
+## Pregraduate Exploratory Programs
+| Name | Description | Requirement | Approximate Deadline |
+| --- | --- | --- | --- |
+| [Georgia Tech FOCUS](https://diversity.gatech.edu/students/focus-program) | Georgia Tech’s Focus program is one of the nation’s premier graduate recruitment programs designed to attract highly skilled students who have historically been underrepresented in higher education, equipping them with the knowledge and resources necessary to successfully navigate the graduate admissions process | Rising 3rd or 4th year, underrepresented group | October |
+| [Stanford SERGE](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/stanford-exposure) | In partnership with the Black Engineering Graduate Student Association (BEGSA), Stanford Engineering hosts select prospective graduate students for a fully funded, two-day campus visit. The visit includes introductions to faculty, students, research labs, and campus life, as well as workshops on application preparation. | Rising 3rd or 4th year, underrepresented group | March |
+
+
 
 
 ## Finance Exploratory Programs

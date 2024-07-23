@@ -220,6 +220,13 @@ All of the programs are all expenses paid.
 | [Two Sigma Undergraduate Scholarship](https://www.twosigma.com/community/academic-partnerships/undergraduate/scholarships/) | All student | Two Sigma's Undergraduate Scholarship is open to all undergraduate students who are expanding frontiers in a STEM field such as statistics, applied mathematics, computer science, and physics. | November | 
 | [Apple Pathways Academy](https://programs.applyists.com/applepathwaysacademy/) | All student | The Apple Pathways Academy is a community of learning and discovery targeting high-performing Black, Hispanic/Latinx, and Indigenous sophomores majoring in computer science and engineering. Current sophomores, 15k/year. | Feb |
 
+## Entrepreneurship
+| Name | Description | Requirement | Approximate Deadline |
+| --- | --- | --- | --- |
+| [Thiel Fellowship](https://thielfellowship.org/) | Founded by technology entrepreneur and investor Peter Thiel in 2011, the Thiel Fellowship is a two-year program for young people who want to build new things. Thiel Fellows skip or stop out of college to receive a $100,000 grant and support from the Thiel Foundation’s network of founders, investors, and scientists. | Any college student | November |
+| [Cansbridge Fellowship](https://cansbridgefellowship.com/) | Each year, we accept a cohort of highly ambitious Canadian students to accelerate their leadership development. This includes a week-long conference in an entrepreneurial hub, a summer internship in Asia, and a network that lasts a lifetime. | Any college student | October |
+
+
 ## Coding Interviews
 | Name | Description | 
 | --- | --- |

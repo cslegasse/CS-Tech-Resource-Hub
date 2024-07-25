@@ -17,7 +17,7 @@ This repo was created to centralize all opportunities related to CS/Tech across 
 	</p>
 </div>
 
-🙏 **Contribute by sending me a message [here](https://instagram.com/remonbiz)** 🧠
+🙏 **Contribute by making a pull request, ill review it :)** 🧠
 
 ⚠️Please note that this repository contains a mix of resources applicable to students in America's and Internationally. ⚠️
 
@@ -244,6 +244,7 @@ All of the programs are all expenses paid.
 | --- | --- | --- |
 | [Code 2040 Early Career Accelerator](http://www.code2040.org/early-career-accelerator-program) | Participants will receive socio-emotional, professional, and management development through in-person workshops, mentorship and coaching, and online engagement. In this program, we’ll build community, make space to commiserate, and most importantly, find tactical solutions to the professional and cultural roadblocks we face in the workplace. | September |
 | [Management Leadership for Tomorrow Career Prep SWE Track](https://mlt.org/career-prep/) | Career Prep is a rigorous, 18-month career development program for emerging leaders. Through the program, Fellows explore their strengths, passions, and interests in order to prepare and plan for successful careers in business and tech. Sophomores, US citizens only | October |
+| [Management Leadership for Tomorrow Ascend](https://mlt.org/ascend/) | Ascend is a college success and career readiness program for first-generation, low-income college students. Ascend Scholars are assigned an MLT Ascend Coach who will provide mentorship, accountability, and guidance as Scholars navigate the college experience and prepare for post-graduation careers. For freshman | August |
 | [Uber Career Prep Fellows Program](https://www.hiddengeniusproject.org/ubercareerprep/) |As a Career Prep Fellow, Uber will help you take your skills to the next level in partnership with experts in the field. This year-long program will consist of five virtual workshops. Topics will vary for each session covering a range of competencies such as: technical interview skills, insights into how top engineers succeed, communication and self-marketing skills, engineering competencies, and so much more. You do 5 mock interviews with Uber engineers and in July interview for Uber SWE internship or full time. | November |
 
 ## CS Research

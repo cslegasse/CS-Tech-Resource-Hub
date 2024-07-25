@@ -361,6 +361,7 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [How to Write a Kickass Resume](https://docs.google.com/document/u/1/d/e/2PACX-1vQpvbP8lzPvZrNvrX58UlacpQiLgh1fBQYfOS2pEJZvp-zOb9uKQJYKSsDQ6mJWoPf3H09OmdrLDcaK/pub?fbclid=IwAR0HLo_mONStDfwLuDcYo2eexckwo5VKM2L4Lh5O4hcQnVfjUU5RrZJ-2bM) |
 | [Good Resume Formats](https://www.careercup.com/resume?fbclid=IwAR1FyQqS0pwgjRCnNgzLNO70ndWAp9Ok9jQScMAyJxVtqK3_NOimNV9fmWY) |
 | [Harvard Resume Format](https://careerservices.fas.harvard.edu/resources/harvard-college-guide-to-resumes-cover-letters/) |
+| [Jake's Overleaf Resume Template ](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) |
 
 ## Misc Stuff
 | Name | Description | Approximate Deadline |

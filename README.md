@@ -283,6 +283,8 @@ Some programs are for current undergraduates looking to pursue graduate school w
 | --- | --- | --- | --- |
 | [Georgia Tech FOCUS](https://diversity.gatech.edu/students/focus-program) | Georgia Tech’s Focus program is one of the nation’s premier graduate recruitment programs designed to attract highly skilled students who have historically been underrepresented in higher education, equipping them with the knowledge and resources necessary to successfully navigate the graduate admissions process | Rising 3rd or 4th year, underrepresented group | October |
 | [Stanford SERGE](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/stanford-exposure) | In partnership with the Black Engineering Graduate Student Association (BEGSA), Stanford Engineering hosts select prospective graduate students for a fully funded, two-day campus visit. The visit includes introductions to faculty, students, research labs, and campus life, as well as workshops on application preparation. | Rising 3rd or 4th year, underrepresented group | March |
+| [UMich EMERGE](https://emerge.engin.umich.edu/) | MERGE is an annual program that exposes a cohort of diverse students from across the nation to select Michigan Engineering doctoral programs by hosting a funded visit to the University of Michigan. | Rising 3rd or 4th year | July |
+
 
 
 ## Finance Exploratory Programs

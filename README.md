@@ -48,6 +48,7 @@ This repo was created to centralize all opportunities related to CS/Tech across 
  * [Coding Interviews](#Coding-Interviews)
  * [CS Mentorship](#CS-Mentorship)
  * [CS Research](#CS-Research)
+ * [Hackathons](#Hackathons)
  * [CS/General Graduate Scholarships (for current undergraduates)](#CS-General-Graduate-Scholarships)
  * [Pre-graduate Exploratory Programs](#Pregraduate-Exploratory-Programs)
  * [Finance+ exploratory programs](#finance-and-consulting-exploratory-programs)
@@ -281,6 +282,21 @@ All of the programs are all expenses paid.
 | [MIT Summer Research Program](https://oge.mit.edu/msrp/) | The MIT Summer Research Program (MSRP) seeks to promote the value of graduate education; to improve the research enterprise through increased diversity; and to prepare and recruit the best and brightest for graduate education at MIT. | 2nd, 3rd, and 4th years | January |
 | [Columbia Summer Undergraduatae Research Experience (SURE)](https://www.engineering.columbia.edu/columbia-summer-undergraduate-research-experience-program) | URE is a unique academic-industry collaboration created to foster career exploration at the frontiers of engineering research. This 10-week summer research program in New York City is designed to introduce talented undergraduate students, with a demonstrated commitment to advancing the needs of historically marginalized groups in STEM, to research in this field. | 3rd and 4th years | January |
 | [DREU](https://cra.org/cra-wp/dreu/) | DREU interns will receive $700 per week for research (up to 10 weeks), and have the opportunity to be directly involved in a research project and interact with graduate students and professors on a daily basis. This experience is invaluable for those who are considering graduate school; DREU will provide a close-up view of what graduate school is really like and increase interns’ competitiveness as an applicant for graduate admissions and fellowships. | All | February |
+
+## Hackathons
+These hackathons are year-round supported by MLH or 3rd parties. They occur at different times each year. The links change.
+| Name | University/Entity | Approximate Deadline |
+| --- | --- | --- |
+| HackHarvard | Havard University| August |
+| HackMIT | Massachussets Institute of Technology | July |
+| HackPrinceton | Princeton University | August |
+| TreeHacks | Stanford University | March |
+| ShellHacks | Florida International University | September |
+| KnightHacks | University of Central Florida | September |
+| SwampHacks | University of Florida | February |
+| CalHacks | University of California - Berkeley | September |
+| HackGT | Georgia Institute of Technology | September |
+
 
 ## CS General Graduate Scholarships
 Some programs are for current undergraduates looking to pursue graduate school while some are for current graduates.

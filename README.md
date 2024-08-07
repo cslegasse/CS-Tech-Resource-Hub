@@ -17,7 +17,7 @@ This repo was created to centralize all opportunities related to CS/Tech across 
 	</p>
 </div>
 
-🙏 **Contribute by sending me a message [here](https://instagram.com/remonbiz)** 🧠
+🙏 **Contribute by making a pull request, ill review it :)** 🧠
 
 ⚠️Please note that this repository contains a mix of resources applicable to students in America's and Internationally. ⚠️
 
@@ -39,6 +39,7 @@ This repo was created to centralize all opportunities related to CS/Tech across 
  * [Study Abroad Scholarships](#study-abroad-scholarships)
  * [Networking and Connections Apps](#Networking-and-Connections-Apps)
  * [Job Searching, Applying, and Market Tracking](#Job-Searching,-Applying,-and-Market-Tracking)
+ * [Coding Practice](#Coding-Practice)
  * [Resumes and Projects](#Resumes-and-Projects)
  * [Misc Stuff](#Misc-Stuff)
 
@@ -244,6 +245,7 @@ All of the programs are all expenses paid.
 | --- | --- | --- |
 | [Code 2040 Early Career Accelerator](http://www.code2040.org/early-career-accelerator-program) | Participants will receive socio-emotional, professional, and management development through in-person workshops, mentorship and coaching, and online engagement. In this program, we’ll build community, make space to commiserate, and most importantly, find tactical solutions to the professional and cultural roadblocks we face in the workplace. | September |
 | [Management Leadership for Tomorrow Career Prep SWE Track](https://mlt.org/career-prep/) | Career Prep is a rigorous, 18-month career development program for emerging leaders. Through the program, Fellows explore their strengths, passions, and interests in order to prepare and plan for successful careers in business and tech. Sophomores, US citizens only | October |
+| [Management Leadership for Tomorrow Ascend](https://mlt.org/ascend/) | Ascend is a college success and career readiness program for first-generation, low-income college students. Ascend Scholars are assigned an MLT Ascend Coach who will provide mentorship, accountability, and guidance as Scholars navigate the college experience and prepare for post-graduation careers. For freshman | August |
 | [Uber Career Prep Fellows Program](https://www.hiddengeniusproject.org/ubercareerprep/) |As a Career Prep Fellow, Uber will help you take your skills to the next level in partnership with experts in the field. This year-long program will consist of five virtual workshops. Topics will vary for each session covering a range of competencies such as: technical interview skills, insights into how top engineers succeed, communication and self-marketing skills, engineering competencies, and so much more. You do 5 mock interviews with Uber engineers and in July interview for Uber SWE internship or full time. | November |
 
 ## CS Research
@@ -263,7 +265,7 @@ All of the programs are all expenses paid.
 | [CMU Data Science for Social Good](https://www.dssgfellowship.org) | The Data Science for Social Good Fellowship is a full-time summer program to train aspiring data scientists to work on machine learning, data science, and AI projects with social impact in a fair and equitable manner. Working closely with governments and nonprofits, fellows take on real-world problems in education, health, criminal justice, sustainability, public safety, workforce development, human services, transportation, economic development, international development, and more. | March |
 | [MIT Summer Research Program](https://oge.mit.edu/msrp/) | The MIT Summer Research Program (MSRP) seeks to promote the value of graduate education; to improve the research enterprise through increased diversity; and to prepare and recruit the best and brightest for graduate education at MIT. | 2nd, 3rd, and 4th years | January |
 | [Columbia Summer Undergraduatae Research Experience (SURE)](https://www.engineering.columbia.edu/columbia-summer-undergraduate-research-experience-program) | URE is a unique academic-industry collaboration created to foster career exploration at the frontiers of engineering research. This 10-week summer research program in New York City is designed to introduce talented undergraduate students, with a demonstrated commitment to advancing the needs of historically marginalized groups in STEM, to research in this field. | 3rd and 4th years | January |
-
+| [DREU](https://cra.org/cra-wp/dreu/) | DREU interns will receive $700 per week for research (up to 10 weeks), and have the opportunity to be directly involved in a research project and interact with graduate students and professors on a daily basis. This experience is invaluable for those who are considering graduate school; DREU will provide a close-up view of what graduate school is really like and increase interns’ competitiveness as an applicant for graduate admissions and fellowships. | All | February |
 
 ## CS General Graduate Scholarships
 Some programs are for current undergraduates looking to pursue graduate school while some are for current graduates.
@@ -281,7 +283,7 @@ Some programs are for current undergraduates looking to pursue graduate school w
 | --- | --- | --- | --- |
 | [Georgia Tech FOCUS](https://diversity.gatech.edu/students/focus-program) | Georgia Tech’s Focus program is one of the nation’s premier graduate recruitment programs designed to attract highly skilled students who have historically been underrepresented in higher education, equipping them with the knowledge and resources necessary to successfully navigate the graduate admissions process | Rising 3rd or 4th year, underrepresented group | October |
 | [Stanford SERGE](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/stanford-exposure) | In partnership with the Black Engineering Graduate Student Association (BEGSA), Stanford Engineering hosts select prospective graduate students for a fully funded, two-day campus visit. The visit includes introductions to faculty, students, research labs, and campus life, as well as workshops on application preparation. | Rising 3rd or 4th year, underrepresented group | March |
-
+| [UMich EMERGE](https://emerge.engin.umich.edu/) | MERGE is an annual program that exposes a cohort of diverse students from across the nation to select Michigan Engineering doctoral programs by hosting a funded visit to the University of Michigan. | Rising 3rd or 4th year | July |
 
 
 
@@ -338,7 +340,7 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [Fullbright Fellowship/Scholarship](https://fulbrightscholars.org/) | The Fulbright U.S. Scholar Program offers over 400 awards in more than 135 countries for U.S. citizens to teach, conduct research and carry out professional projects around the world.  College and university faculty, as well as artists and professionals from a wide range of fields can join over 400,000 Fulbrighters who have come away with enhanced skills, new connections, and greater mutual understanding. | Various years | Various dates |
 | [Boren Award](https://www.borenawards.org/) | Boren Scholars and Fellows study a wide range of critical languages, including Arabic, Chinese, Portuguese, and Swahili. Boren Awards are available to students of all proficiency levels who are committed to enhancing their skills. | Various years | September |
 
-# Networking and Connections Apps
+## Networking and Connections Apps
 | Resource Link |
 | --- |
 [LinkedIn](https://www.linkedin.com/)
@@ -347,20 +349,28 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 [r/csMajors](https://www.reddit.com/r/csMajors/)
 [Blind](https://www.teamblind.com)
 
-#  Job Searching, Applying, and Market Tracking
+##  Job Searching, Applying, and Market Tracking
 | Resource Link | Description |
 | --- | --- |
 | [Simplify](https://simplify.jobs/) | Auto fills job applications |
 | [JobPulse](https://jobpulse.fyi/) | Connects students to potential company matches |
 | [Levels.FYI](https://www.levels.fyi/) | Transparent job salary, offer negotiations, and community services for tech jobs |
 | [Layoffs.FYI](https://www.layoffs.fyi/) | Transparent job market data on layoffs based on location, company, and industry |
+| [KnowTern](https://www.knowtern.com/database) | Diversity opportunities database |
 
-## Resumes and Projects
+## Coding Practice
+| Resource Link |
+| --- |
+| [CSES Competitive Programming Problems](https://cses.fi/problemset/list) |
+| [Nesquena Interview Playbook](https://hackmd.io/@nesquena/HJN9k17sm?type=view) |
+
+## Resumes, Projects, Interviews, Grad School,
 | Resource Link |
 | --- |
 | [How to Write a Kickass Resume](https://docs.google.com/document/u/1/d/e/2PACX-1vQpvbP8lzPvZrNvrX58UlacpQiLgh1fBQYfOS2pEJZvp-zOb9uKQJYKSsDQ6mJWoPf3H09OmdrLDcaK/pub?fbclid=IwAR0HLo_mONStDfwLuDcYo2eexckwo5VKM2L4Lh5O4hcQnVfjUU5RrZJ-2bM) |
 | [Good Resume Formats](https://www.careercup.com/resume?fbclid=IwAR1FyQqS0pwgjRCnNgzLNO70ndWAp9Ok9jQScMAyJxVtqK3_NOimNV9fmWY) |
 | [Harvard Resume Format](https://careerservices.fas.harvard.edu/resources/harvard-college-guide-to-resumes-cover-letters/) |
+| [GRE Workbook](https://www.elnazmohamadi.com/wp-content/uploads/2020/08/9.GRE_big_book.pdf) |
 
 ## Misc Stuff
 | Name | Description | Approximate Deadline |

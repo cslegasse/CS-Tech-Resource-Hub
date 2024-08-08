@@ -96,11 +96,11 @@ This repo was created to centralize all opportunities related to CS/Tech across 
 
 ---
 
-## 2024 CS Internship Apps
+## 2025 CS Internship Apps
 These are links to websites, github repos, or other sources to help you apply for internships specific to this cycle.
-| Resource Link | Resource Link | Resource Link |
-| --- | --- | --- |
-| [Pitt CSC 2025 Summer Internships](https://github.com/SimplifyJobs/Summer2025-Internships) | [OuckahCS 2025 Summer Internships](https://github.com/Ouckah/Summer2025-Internships) | [SWE List 2025](https://swelist.com/)
+| Resource Link | Resource Link | Resource Link | Resource Link |
+| --- | --- | --- | --- |
+| [Pitt CSC 2025 Summer Internships](https://github.com/SimplifyJobs/Summer2025-Internships) | [OuckahCS 2025 Summer Internships](https://github.com/Ouckah/Summer2025-Internships) | [SWE List 2025](https://swelist.com/) | [New Grad 2025](https://github.com/haydenthai/New-Grad-2025) |
 
 ## CS Underclassmen Internships
 | Name | Description | Approximate Deadline |
@@ -415,3 +415,4 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 * [Julian048](https://github.com/Julian048/CS-Everything-but-Internships)
 * [Ouckah](https://github.com/Ouckah/Summer2025-Internships)
 * [Simplify/PittCSC](https://github.com/SimplifyJobs/Summer2025-Internships)
+* [haydenthai](https://github.com/haydenthai/New-Grad-2025)

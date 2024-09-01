@@ -9,7 +9,7 @@ This repo was created to centralize all opportunities related to CS/Tech across 
 			<b>Follow me on Beacons.ai</b>
 			<div>
 				<a href="https://beacons.ai/legasse">
-          <img src="https://github.com/cslegasse/CS-Tech-Resource-Hub/blob/main/ProfitProgramming logo.webp" width="200" alt="Profit Programming">
+          <img src="https://cdn.beacons.ai/user_content/AHnOl9MMnuMm1Z7JLxNaIU5g9qU2/profile_beacons.png?t=1636242247083" width="200" alt="Beacons.ai"">
         </a>
 			</div>
 		</a>
@@ -23,7 +23,7 @@ This repo was created to centralize all opportunities related to CS/Tech across 
 			<b>Join the Profit Programming discord! 🚀</b>
 			<div>
 				<a href=https://discord.gg/x4rve34kw2">
-          <img src="https://cdn.beacons.ai/user_content/AHnOl9MMnuMm1Z7JLxNaIU5g9qU2/profile_beacons.png?t=1636242247083" width="200" alt="Beacons.ai">
+          <img src="https://github.com/cslegasse/CS-Tech-Resource-Hub/blob/main/discord.png" width="200" alt="Profit Programming"">
         </a>
 			</div>
 		</a>

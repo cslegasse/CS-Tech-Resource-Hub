@@ -390,6 +390,8 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [Levels.FYI](https://www.levels.fyi/) | Transparent job salary, offer negotiations, and community services for tech jobs |
 | [Layoffs.FYI](https://www.layoffs.fyi/) | Transparent job market data on layoffs based on location, company, and industry |
 | [KnowTern](https://www.knowtern.com/database) | Diversity opportunities database |
+| [Onsites.FYI](https://www.onsites.fyi/hiring) | Hiring database |
+| [LinkedIn Auto Applier](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI) | Mass apply to various jobs |
 
 ## Coding Practice
 | Resource Link |
@@ -417,3 +419,4 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 * [Ouckah](https://github.com/Ouckah/Summer2025-Internships)
 * [Simplify/PittCSC](https://github.com/SimplifyJobs/Summer2025-Internships)
 * [haydenthai](https://github.com/haydenthai/New-Grad-2025)
+* [federcr](https://github.com/feder-cr/)

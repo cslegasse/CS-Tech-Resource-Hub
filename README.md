@@ -297,6 +297,7 @@ These hackathons are year-round supported by MLH or 3rd parties. They occur at d
 | SwampHacks | University of Florida | February |
 | CalHacks | University of California - Berkeley | September |
 | HackGT | Georgia Institute of Technology | September |
+| PennApps | University of Pennsylvania | September |
 
 
 ## CS General Graduate Scholarships
@@ -406,6 +407,7 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [Good Resume Formats](https://www.careercup.com/resume?fbclid=IwAR1FyQqS0pwgjRCnNgzLNO70ndWAp9Ok9jQScMAyJxVtqK3_NOimNV9fmWY) |
 | [Harvard Resume Format](https://careerservices.fas.harvard.edu/resources/harvard-college-guide-to-resumes-cover-letters/) |
 | [GRE Workbook](https://www.elnazmohamadi.com/wp-content/uploads/2020/08/9.GRE_big_book.pdf) |
+| [Reverse Interviewing](https://github.com/viraptor/reverse-interview/blob/master/README.md) |
 
 ## Misc Stuff
 | Name | Description | Approximate Deadline |

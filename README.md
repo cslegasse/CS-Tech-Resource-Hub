@@ -17,20 +17,6 @@ This repo was created to centralize all opportunities related to CS/Tech across 
 	</p>
 </div>
 
-<div align="center">
-	<p>
-		<a href="https://discord.gg/x4rve34kw2">
-			<b>Join the Profit Programming discord! 🚀</b>
-			<div>
-				<a href=https://discord.gg/x4rve34kw2">
-          <img src="https://github.com/cslegasse/CS-Tech-Resource-Hub/blob/main/discord.png" width="200" alt="Profit Programming"">
-        </a>
-			</div>
-		</a>
-		<sub><i>Find your programming and business community & additional resources.</i></sub>
-	</p>
-</div>
-
 
 🙏 **Contribute by making a pull request, ill review it :)** 🧠
 

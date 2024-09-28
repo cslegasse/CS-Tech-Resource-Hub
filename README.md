@@ -272,18 +272,7 @@ All of the programs are all expenses paid.
 
 ## Hackathons
 These hackathons are year-round supported by MLH or 3rd parties. They occur at different times each year. The links change.
-| Name | University/Entity | Approximate Deadline |
-| --- | --- | --- |
-| HackHarvard | Havard University| August |
-| HackMIT | Massachussets Institute of Technology | July |
-| HackPrinceton | Princeton University | August |
-| TreeHacks | Stanford University | March |
-| ShellHacks | Florida International University | September |
-| KnightHacks | University of Central Florida | September |
-| SwampHacks | University of Florida | February |
-| CalHacks | University of California - Berkeley | September |
-| HackGT | Georgia Institute of Technology | September |
-| PennApps | University of Pennsylvania | September |
+You can visit MLH for every hackathon throughout the season/year [here](https://mlh.io/seasons/2025/events)
 
 
 ## CS General Graduate Scholarships

@@ -17,9 +17,6 @@ This repo was created to centralize all opportunities related to CS/Tech across 
 	</p>
 </div>
 
-
-🙏 **Contribute by making a pull request, ill review it :)** 🧠
-
 ⚠️Please note that this repository contains a mix of resources applicable to students in America's and Internationally. ⚠️
 
 # Table of Contents 🤯✔️
@@ -46,7 +43,6 @@ This repo was created to centralize all opportunities related to CS/Tech across 
  * [Misc Stuff](#Misc-Stuff)
 
 ---
-
 <div align="center">
 	<p>
 		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
@@ -63,23 +59,6 @@ This repo was created to centralize all opportunities related to CS/Tech across 
 		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
 	</p>
 </div>
-
----
-
-<div align="center">
-	<h3>😮‍💨 Tired of checking every day for new internships? 😩</h3>
-	<p>
-			A community member made ⬇️ <strong>SWE List</strong> ⬇️ that sends you email updates for this repo 
-			<br>
-			<div>
-			<a href="https://swelist.com">
-          <img src="https://i.imgur.com/n8ZX4tt.png" width="400" alt="Email">
-        </a>
-			</div>
-		<sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub>
-	</p>
-</div>
-
 ---
 
 ## 2025 CS Internship Apps
@@ -274,7 +253,6 @@ All of the programs are all expenses paid.
 These hackathons are year-round supported by MLH or 3rd parties. They occur at different times each year. The links change.
 You can visit MLH for every hackathon throughout the season/year [here](https://mlh.io/seasons/2025/events)
 
-
 ## CS General Graduate Scholarships
 Some programs are for current undergraduates looking to pursue graduate school while some are for current graduates.
 | Name | Description | Requirement | Approximate Deadline |
@@ -292,6 +270,7 @@ Some programs are for current undergraduates looking to pursue graduate school w
 | [Rales Fellows Program](https://www.cmu.edu/graduate/rales-fellows/) | The CMU Rales Fellows Program provides graduate students with full tuition as well as a stipend to cover living expenses such as housing and health insurance. | 4th year undergraduates | November |
 | [NDSEG Fellowships](https://ndseg.org/) | The National Defense Science and Engineering Graduate (NDSEG) Fellowship program was established in 1989 by direction of congress as an approach to increasing the number of United States (U.S.) citizens receiving doctoral degrees in science and engineering (S&E) disciplines to DoD Relevance. | 4th year undergraduates, graduates, postdoc | November | 
 | [PD Soros Fellowship](https://pdsoros.org/) | The Paul and Daisy Soros Fellowships for New Americans provides merit-based funding for New Americans, immigrants and children of immigrants, who are poised to make significant contributions to US culture, society and academia. | 4th year undergraduates | November |
+| [Schwarzman Scholarship](https://www.schwarzmanscholars.org/) | Apply for a one-year, fully-funded master’s program at Tsinghua University in Beijing, designed to build a global community of future leaders who will serve to deepen understanding between China and the rest of the world. | 4th year undergraduates | September |
 
 ## Pregraduate Exploratory Programs
 | Name | Description | Requirement | Approximate Deadline |
@@ -299,8 +278,6 @@ Some programs are for current undergraduates looking to pursue graduate school w
 | [Georgia Tech FOCUS](https://diversity.gatech.edu/students/focus-program) | Georgia Tech’s Focus program is one of the nation’s premier graduate recruitment programs designed to attract highly skilled students who have historically been underrepresented in higher education, equipping them with the knowledge and resources necessary to successfully navigate the graduate admissions process | Rising 3rd or 4th year, underrepresented group | October |
 | [Stanford SERGE](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/stanford-exposure) | In partnership with the Black Engineering Graduate Student Association (BEGSA), Stanford Engineering hosts select prospective graduate students for a fully funded, two-day campus visit. The visit includes introductions to faculty, students, research labs, and campus life, as well as workshops on application preparation. | Rising 3rd or 4th year, underrepresented group | March |
 | [UMich EMERGE](https://emerge.engin.umich.edu/) | MERGE is an annual program that exposes a cohort of diverse students from across the nation to select Michigan Engineering doctoral programs by hosting a funded visit to the University of Michigan. | Rising 3rd or 4th year | July |
-
-
 
 ## Finance Exploratory Programs
 All of the programs are all expenses paid. Most of those programs have GPA requirments of 3.0+ or 3.5+. 
@@ -351,7 +328,6 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [Tortuga Backpaacks Scholarship](https://www.tortugabackpacks.com/pages/study-abroad-scholarship) | The Tortuga Study Abroad Scholarship is awarded biannually to passionate students who want to explore the world. No specific requirements. | Spring - November, Fall - April |
 | [Benjamin A. Gilman Scholarship](https://www.gilmanscholarship.org/) | Must recieve federal pell grant | Fall - March, Spring - November |
 | [Fund for Education Abroad](https://fundforeducationabroad.org/) | Financial need and underrepresented group a requirement | Fall/Spring/AY - November |
-| [Schwarzman Scholarship](https://www.schwarzmanscholars.org/) | Apply for a one-year, fully-funded master’s program at Tsinghua University in Beijing, designed to build a global community of future leaders who will serve to deepen understanding between China and the rest of the world. | 4th year undergraduates | September |
 | [Fullbright Fellowship/Scholarship](https://fulbrightscholars.org/) | The Fulbright U.S. Scholar Program offers over 400 awards in more than 135 countries for U.S. citizens to teach, conduct research and carry out professional projects around the world.  College and university faculty, as well as artists and professionals from a wide range of fields can join over 400,000 Fulbrighters who have come away with enhanced skills, new connections, and greater mutual understanding. | Various years | Various dates |
 | [Boren Award](https://www.borenawards.org/) | Boren Scholars and Fellows study a wide range of critical languages, including Arabic, Chinese, Portuguese, and Swahili. Boren Awards are available to students of all proficiency levels who are committed to enhancing their skills. | Various years | September |
 

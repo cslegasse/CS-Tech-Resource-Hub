@@ -17,21 +17,6 @@ This repo was created to centralize all opportunities related to CS/Tech across 
 	</p>
 </div>
 
-<div align="center">
-	<p>
-		<a href="https://discord.gg/SUAHxTj8dx">
-			<b>Join Momentum House, a free community for tech and ecommerce</b>
-			<div>
-				<a href="https://discord.gg/SUAHxTj8dx">
-          <img src="https://raw.githubusercontent.com/cslegasse/CS-Tech-Resource-Hub/6a4f1048d18b8f5ede11fbdd214eea936dbedfca/MOMENTUM.png" width="200" alt="Momentum Image">
-        </a>
-			</div>
-		</a>
-	</p>
-</div>
-
-
-
 ⚠️Please note that this repository contains a mix of resources applicable to students in America's and Internationally. ⚠️
 
 # Table of Contents 🤯✔️

@@ -17,7 +17,7 @@ This repo was created to centralize all opportunities related to CS/Tech across 
 	</p>
 </div>
 
-⚠️Please note that this repository contains a mix of resources applicable to students in America's and Internationally. ⚠️
+⚠️Please note that this repository contains a mix of resources applicable to students in America's and internationally. ⚠️
 
 # Table of Contents 🤯✔️
  * [2026 CS Internship Apps](#2026-CS-Internship-Apps)
@@ -372,9 +372,10 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [CS PhD Applications fee waivers](https://github.com/KaiserWhoLearns/CS-PhD-Application-fee-waivers) | Repo of CS PhD Application Fee Waivers of schools in North America | N/A |
 
 ## Thank you to contributors ❤️❤️
-* [LuisaE](https://github.com/LuisaE/opportunities)
-* [Julian048](https://github.com/Julian048/CS-Everything-but-Internships)
-* [Ouckah](https://github.com/Ouckah/Summer2025-Internships)
-* [Simplify/PittCSC](https://github.com/SimplifyJobs/Summer2025-Internships)
-* [haydenthai](https://github.com/haydenthai/New-Grad-2025)
+* [LuisaE](https://github.com/LuisaE/)
+* [Julian048](https://github.com/Julian048/)
+* [Ouckah](https://github.com/Ouckah/)
+* [SimplifyJobs](https://github.com/SimplifyJobs/)
+* [haydenthai](https://github.com/haydenthai/)
 * [federcr](https://github.com/feder-cr/)
+* [vanshb03](https://github.com/vanshb03/)

@@ -62,8 +62,8 @@ This repo was created to centralize all opportunities related to CS/Tech across 
 
 ## 2025 CS Internship Apps
 These are links to websites, github repos, or other sources to help you apply for internships specific to this cycle.
-| Resource Link | Resource Link | Resource Link | Resource Link | Resource Link |
-| --- | --- | --- |
+| Resource Link | Resource Link | Resource Link |
+| --- | --- | --- | 
 | [Vansh & Ouckah 2026 Summer Internships](https://github.com/vanshb03/Summer2026-Internships) | [SimplifyJobs 2026 Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) | [CS New Grad 2026](https://github.com/SimplifyJobs/New-Grad-Positions) |
 
 ## CS Underclassmen Internships

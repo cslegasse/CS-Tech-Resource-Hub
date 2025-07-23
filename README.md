@@ -1,4 +1,4 @@
-# CS/Tech Resource Hub by RemonBiz
+# CS/Tech Resource Hub by Remonbiz
 This repo was created to centralize all opportunities related to CS/Tech across a broad academic range of resources.
 
 **The list is maintained by [RemonBiz](https://instagram.com/remonbiz)!** 💰⭐
@@ -20,7 +20,7 @@ This repo was created to centralize all opportunities related to CS/Tech across 
 ⚠️Please note that this repository contains a mix of resources applicable to students in America's and Internationally. ⚠️
 
 # Table of Contents 🤯✔️
- * [2024 CS Internship Apps](#2024-CS-Internship-Apps)
+ * [2026 CS Internship Apps](#2026-CS-Internship-Apps)
  * [CS Underclassmen Internships](#CS-Underclassmen-Internships)
  * [CS Fellowships](#Fellowships)
  * [Part-time internships](#part-time-internships)
@@ -63,8 +63,8 @@ This repo was created to centralize all opportunities related to CS/Tech across 
 ## 2025 CS Internship Apps
 These are links to websites, github repos, or other sources to help you apply for internships specific to this cycle.
 | Resource Link | Resource Link | Resource Link | Resource Link | Resource Link |
-| --- | --- | --- | --- | --- |
-| [Pitt CSC 2025 Summer Internships](https://github.com/SimplifyJobs/Summer2025-Internships) | [OuckahCS 2025 Summer Internships](https://github.com/Ouckah/Summer2025-Internships) | [SWE List 2025](https://swelist.com/) | [New Grad 2025](https://github.com/haydenthai/New-Grad-2025) | [New Grad 2025-2](https://github.com/cvrve/New-Grad) | [Simplify Offseason 2025](https://github.com/SimplifyJobs/Summer2025-Internships) |
+| --- | --- | --- |
+| [Vansh & Ouckah 2026 Summer Internships](https://github.com/vanshb03/Summer2026-Internships) | [SimplifyJobs 2026 Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) | [CS New Grad 2026](https://github.com/SimplifyJobs/New-Grad-Positions) |
 
 ## CS Underclassmen Internships
 | Name | Description | Approximate Deadline |

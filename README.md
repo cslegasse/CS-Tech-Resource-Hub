@@ -42,29 +42,10 @@ This repo was created to centralize all opportunities related to CS/Tech across 
  * [Resumes and Projects](#Resumes-and-Projects)
  * [Misc Stuff](#Misc-Stuff)
 
-<div align="center">
-	<p>
-		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
-			<b>Applying to internships?</b>
-			<br>
-			Autofill all your applications in a single click.
-			<br>
-			<div>
-				<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
-          <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
-        </a>
-			</div>
-		</a>
-		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
-	</p>
-</div>
 ---
 
-## 2025 CS Internship Apps
-These are links to websites, github repos, or other sources to help you apply for internships specific to this cycle.
-| Resource Link | Resource Link | Resource Link |
-| --- | --- | --- | 
-| [Vansh & Ouckah 2026 Summer Internships](https://github.com/vanshb03/Summer2026-Internships) | [SimplifyJobs 2026 Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) | [CS New Grad 2026](https://github.com/SimplifyJobs/New-Grad-Positions) |
+## Maintenance
+This GitHub is no longer maintained for internships or to validate active resources as of 4/1/2026.
 
 ## CS Underclassmen Internships
 | Name | Description | Approximate Deadline |

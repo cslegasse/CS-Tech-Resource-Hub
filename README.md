@@ -2,7 +2,6 @@
 This repo was created to centralize all opportunities related to CS/Tech across a broad academic range of resources.
 
 **The list is maintained by [RemonBiz](https://instagram.com/remonbiz)!** 💰⭐
-
 <div align="center">
 	<p>
 		<a href="https://beacons.ai/legasse">
@@ -16,8 +15,6 @@ This repo was created to centralize all opportunities related to CS/Tech across 
 		<sub><i>Discover all my social media profiles, content, and resources in one place.</i></sub>
 	</p>
 </div>
-
-⚠️Please note that this repository contains a mix of resources applicable to students in America's and internationally. ⚠️
 
 # Table of Contents 🤯✔️
  * [2026 CS Internship Apps](#2026-CS-Internship-Apps)
@@ -40,12 +37,10 @@ This repo was created to centralize all opportunities related to CS/Tech across 
  * [Job Searching, Applying, and Market Tracking](#Job-Searching,-Applying,-and-Market-Tracking)
  * [Coding Practice](#Coding-Practice)
  * [Resumes and Projects](#Resumes-and-Projects)
- * [Misc Stuff](#Misc-Stuff)
+ * [Misc Stuff](#Misc)
+ * [Githubs for Learning](#Useful-Githubs)
 
 ---
-
-## Maintenance
-This GitHub is no longer maintained for internships or to validate active resources as of 4/1/2026.
 
 ## CS Underclassmen Internships
 | Name | Description | Approximate Deadline |
@@ -346,11 +341,22 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [GRE Workbook](https://www.elnazmohamadi.com/wp-content/uploads/2020/08/9.GRE_big_book.pdf) |
 | [Reverse Interviewing](https://github.com/viraptor/reverse-interview/blob/master/README.md) |
 
-## Misc Stuff
+## Misc
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [Campus Visitations Grad School](https://mcnairscholars.com/campus-visitations/) | Many graduate schools offer visitation events.  These events may be paid for by the institution and offer a variety of services to assist students in applying for graduate programs. | Check the website |
 | [CS PhD Applications fee waivers](https://github.com/KaiserWhoLearns/CS-PhD-Application-fee-waivers) | Repo of CS PhD Application Fee Waivers of schools in North America | N/A |
+
+## Useful Githubs
+| Name | Description |
+| --- | --- |
+| [System Design Primer](https://github.com/donnemartin/system-design-primer) | Learn to design scalable systems |
+| [Free-For-Dev](https://github.com/ripienaar/free-for-dev) | Free developer tiers for software |
+| [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) | Performance optimization system for AI agent harnesses |
+| [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) | Step-by-step guides for creating tech from scratch |
+| [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) | Technical stuff to know as a developer |
+| [Realworld Demos](https://github.com/realworld-apps/realworld) | 100 implementations of demos in various languages |
+| [Public APIs](https://github.com/realworld-apps/realworld) | List of public APIs for free |
 
 ## Thank you to contributors ❤️❤️
 * [LuisaE](https://github.com/LuisaE/)

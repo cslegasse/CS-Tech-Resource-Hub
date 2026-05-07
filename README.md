@@ -320,6 +320,7 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | --- | --- |
 | [Simplify](https://simplify.jobs/) | Auto fills job applications |
 | [JobPulse](https://jobpulse.fyi/) | Connects students to potential company matches |
+| [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) | Daily-updated Canadian student and new-grad jobs board with internships, co-ops, junior roles, and tech/data categories |
 | [Levels.FYI](https://www.levels.fyi/) | Transparent job salary, offer negotiations, and community services for tech jobs |
 | [Layoffs.FYI](https://www.layoffs.fyi/) | Transparent job market data on layoffs based on location, company, and industry |
 | [KnowTern](https://www.knowtern.com/database) | Diversity opportunities database |

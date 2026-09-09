@@ -319,6 +319,7 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | Resource Link | Description |
 | --- | --- |
 | [Simplify](https://simplify.jobs/) | Auto fills job applications |
+| [ResumeAI](https://withresumeai.com/) | Free ATS checker + AI resume builder |
 | [JobPulse](https://jobpulse.fyi/) | Connects students to potential company matches |
 | [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) | Daily-updated Canadian student and new-grad jobs board with internships, co-ops, junior roles, and tech/data categories |
 | [Levels.FYI](https://www.levels.fyi/) | Transparent job salary, offer negotiations, and community services for tech jobs |
